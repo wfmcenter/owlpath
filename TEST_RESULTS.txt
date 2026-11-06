@@ -1,0 +1,25 @@
+test_cannot_claim_verified_tuj_offerings (test_engine.GenericEngineTests.test_cannot_claim_verified_tuj_offerings) ... ok
+test_cannot_double_count_in_psy_groups (test_engine.GenericEngineTests.test_cannot_double_count_in_psy_groups) ... ok
+test_catalog_and_sources (test_engine.GenericEngineTests.test_catalog_and_sources) ... ok
+test_cs_ba_bs_from_legacy_data (test_engine.GenericEngineTests.test_cs_ba_bs_from_legacy_data) ... ok
+test_cs_elective_limits_respected (test_engine.GenericEngineTests.test_cs_elective_limits_respected) ... ok
+test_cs_interests_change_course_selection (test_engine.GenericEngineTests.test_cs_interests_change_course_selection) ... ok
+test_early_capstone_detected_by_final_validator (test_engine.GenericEngineTests.test_early_capstone_detected_by_final_validator) ... ok
+test_external_transcript_grade_not_silently_counted (test_engine.GenericEngineTests.test_external_transcript_grade_not_silently_counted) ... ok
+test_future_program_auto_discovery (test_engine.GenericEngineTests.test_future_program_auto_discovery) ... ok
+test_invalid_program_fails_early (test_engine.GenericEngineTests.test_invalid_program_fails_early) ... ok
+test_no_duplicate_semester_course_ids (test_engine.GenericEngineTests.test_no_duplicate_semester_course_ids) ... ok
+test_psychology_capstone_after_90_and_methods (test_engine.GenericEngineTests.test_psychology_capstone_after_90_and_methods) ... ok
+test_psychology_foundations_advanced_distinct (test_engine.GenericEngineTests.test_psychology_foundations_advanced_distinct) ... ok
+test_psychology_interests_change_course_selection (test_engine.GenericEngineTests.test_psychology_interests_change_course_selection) ... ok
+test_student_input_and_report_export (test_engine.GenericEngineTests.test_student_input_and_report_export) ... ok
+test_unknown_math_blocks (test_engine.GenericEngineTests.test_unknown_math_blocks) ... ok
+test_unverified_advanced_psychology_not_selected (test_engine.GenericEngineTests.test_unverified_advanced_psychology_not_selected) ... ok
+test_ui_blocks_unverified_placement (test_ui_smoke.StreamlitControlFlowTests.test_ui_blocks_unverified_placement) ... ok
+test_ui_runs_with_cs_profile (test_ui_smoke.StreamlitControlFlowTests.test_ui_runs_with_cs_profile) ... ok
+test_ui_runs_with_psychology_profile (test_ui_smoke.StreamlitControlFlowTests.test_ui_runs_with_psychology_profile) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 1.810s
+
+OK
