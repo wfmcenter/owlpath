@@ -1,0 +1,64 @@
+{
+  "student_id": "SYNTHETIC_PSY_NEURO",
+  "program_id": "PSY_BA_2026",
+  "catalog_year": "2026-27",
+  "campus_preference": "Tokyo",
+  "completed_courses": [
+    {
+      "course_id": "PSY1001",
+      "grade": "A",
+      "credits": 3,
+      "at_temple": true
+    },
+    {
+      "course_id": "PSY1002",
+      "grade": "A",
+      "credits": 1,
+      "at_temple": true
+    },
+    {
+      "course_id": "PSY1003",
+      "grade": "B+",
+      "credits": 3,
+      "at_temple": true
+    },
+    {
+      "course_id": "PSY1004",
+      "grade": "A-",
+      "credits": 3,
+      "at_temple": true
+    },
+    {
+      "course_id": "GW_SLOT",
+      "grade": "B",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "GY_SLOT",
+      "grade": "B",
+      "credits": 3,
+      "at_temple": true
+    }
+  ],
+  "other_completed_credits": 0,
+  "preferences": {
+    "target_credits_per_term": 15,
+    "interest_weights": {
+      "neuroscience": 5,
+      "cognition": 5,
+      "research": 4,
+      "clinical": 1
+    },
+    "career_tags": [
+      "neuroscience",
+      "research"
+    ]
+  },
+  "prototype_flags": {
+    "math_ready": true,
+    "language_level_2": false,
+    "global_option_met": false,
+    "honors_approved": false
+  }
+}

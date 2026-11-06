@@ -1,0 +1,10 @@
+{
+  "math_ready": "Mathematics placement/readiness verified (synthetic)",
+  "calculus_ready": "Calculus readiness verified (synthetic)",
+  "calculus_ii_or_higher": "Calculus II/higher eligibility verified (synthetic)",
+  "language_level_2": "Foreign language level 2 requirement met or waived",
+  "global_option_met": "CLA additional global studies option met or waived",
+  "honors_approved": "Honors-program enrollment verified (synthetic)",
+  "honors_research_approved": "Honors independent research eligibility verified (synthetic)",
+  "psy_honors_capstone_approved": "Honors capstone permission verified (synthetic)"
+}

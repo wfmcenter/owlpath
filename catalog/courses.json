@@ -1,0 +1,1971 @@
+{
+  "CIS1001": {
+    "id": "CIS1001",
+    "title": "Introduction to Academics in Computer Science",
+    "credits": 1.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1051": {
+    "id": "CIS1051",
+    "title": "Introduction to Problem Solving and Programming in Python",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1951": {
+    "id": "CIS1951",
+    "title": "Honors Introduction to Problem Solving and Programming in Python",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1057": {
+    "id": "CIS1057",
+    "title": "Computer Programming in C",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1068": {
+    "id": "CIS1068",
+    "title": "Program Design and Abstraction",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1968": {
+    "id": "CIS1968",
+    "title": "Honors Program Design and Abstraction",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1166": {
+    "id": "CIS1166",
+    "title": "Mathematical Concepts in Computing I",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS1966": {
+    "id": "CIS1966",
+    "title": "Honors Mathematical Concepts in Computing I",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS2033": {
+    "id": "CIS2033",
+    "title": "Computational Probability and Statistics",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS2107": {
+    "id": "CIS2107",
+    "title": "Computer Systems and Low-Level Programming",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS2166": {
+    "id": "CIS2166",
+    "title": "Mathematical Concepts in Computing II",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS2168": {
+    "id": "CIS2168",
+    "title": "Data Structures",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS3207": {
+    "id": "CIS3207",
+    "title": "Introduction to Systems Programming and Operating Systems",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS3223": {
+    "id": "CIS3223",
+    "title": "Data Structures and Algorithms",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS3296": {
+    "id": "CIS3296",
+    "title": "Software Design (WI)",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS4397": {
+    "id": "CIS4397",
+    "title": "Independent Research in Computer Science (WI)",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS4398": {
+    "id": "CIS4398",
+    "title": "Projects in Computer Science (WI)",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "MATH1041": {
+    "id": "MATH1041",
+    "title": "Calculus I",
+    "credits": 4.0,
+    "subject": "MATH",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "MATH1941": {
+    "id": "MATH1941",
+    "title": "Honors Calculus I",
+    "credits": 4.0,
+    "subject": "MATH",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "MATH1042": {
+    "id": "MATH1042",
+    "title": "Calculus II",
+    "credits": 4.0,
+    "subject": "MATH",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "MATH1942": {
+    "id": "MATH1942",
+    "title": "Honors Calculus II",
+    "credits": 4.0,
+    "subject": "MATH",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "SCTC1001": {
+    "id": "SCTC1001",
+    "title": "CST First-Year Seminar",
+    "credits": 1.0,
+    "subject": "SCTC",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "SCTC2001": {
+    "id": "SCTC2001",
+    "title": "CST Transfer Seminar",
+    "credits": 1.0,
+    "subject": "SCTC",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS3100": {
+    "id": "CIS3100",
+    "title": "Special Topics in CIS",
+    "credits": null,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CIS3203": {
+    "id": "CIS3203",
+    "title": "Introduction to Artificial Intelligence",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "artificial_intelligence": 3,
+      "research": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3211": {
+    "id": "CIS3211",
+    "title": "Automata, Computability, and Languages",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "theory": 3,
+      "research": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3217": {
+    "id": "CIS3217",
+    "title": "Computer Architecture",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "systems": 3,
+      "hardware": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3308": {
+    "id": "CIS3308",
+    "title": "Web Application Programming",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "software": 3,
+      "web": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3319": {
+    "id": "CIS3319",
+    "title": "Wireless Networks and Security",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cybersecurity": 3,
+      "networks": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3374": {
+    "id": "CIS3374",
+    "title": "Quality Assurance & Testing",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "software": 3,
+      "quality": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3381": {
+    "id": "CIS3381",
+    "title": "Cooperative Education Experience in Computer Science",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS3441": {
+    "id": "CIS3441",
+    "title": "Software Security",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cybersecurity": 3,
+      "software": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3515": {
+    "id": "CIS3515",
+    "title": "Introduction to Mobile Application Development",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "software": 3,
+      "mobile": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3523": {
+    "id": "CIS3523",
+    "title": "Microservice Architecture",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "software": 3,
+      "cloud": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3603": {
+    "id": "CIS3603",
+    "title": "User Experience Design",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "human_computer_interaction": 3,
+      "design": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3605": {
+    "id": "CIS3605",
+    "title": "Introduction to Digital Forensics",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cybersecurity": 3,
+      "forensics": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3655": {
+    "id": "CIS3655",
+    "title": "Human and Artificial Intelligence Interaction",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "artificial_intelligence": 3,
+      "human_computer_interaction": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3715": {
+    "id": "CIS3715",
+    "title": "Principles of Data Science",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "data_science": 3,
+      "research": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS3755": {
+    "id": "CIS3755",
+    "title": "Introduction to Information Visualization",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 3000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "data_science": 3,
+      "human_computer_interaction": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4203": {
+    "id": "CIS4203",
+    "title": "Artificial General Intelligence",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "artificial_intelligence": 3,
+      "research": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4282": {
+    "id": "CIS4282",
+    "title": "Independent Study",
+    "credits": null,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CIS4307": {
+    "id": "CIS4307",
+    "title": "Introduction to Distributed Systems and Networks",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "systems": 3,
+      "networks": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4319": {
+    "id": "CIS4319",
+    "title": "Computer Networks and Communications",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "networks": 3,
+      "systems": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4324": {
+    "id": "CIS4324",
+    "title": "Compiler Design",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "systems": 3,
+      "theory": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4429": {
+    "id": "CIS4429",
+    "title": "Security in Mobile and Embedded Systems",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cybersecurity": 3,
+      "mobile": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4331": {
+    "id": "CIS4331",
+    "title": "Principles of Database Systems",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "database": 3,
+      "software": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4345": {
+    "id": "CIS4345",
+    "title": "Introduction to Cloud Computing",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cloud": 3,
+      "systems": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4350": {
+    "id": "CIS4350",
+    "title": "Seminar on Topics in Computer Science",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS4360": {
+    "id": "CIS4360",
+    "title": "Seminar on Topics in Computer Science",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CIS4419": {
+    "id": "CIS4419",
+    "title": "Securing the Internet of Things",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cybersecurity": 3,
+      "iot": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4515": {
+    "id": "CIS4515",
+    "title": "Advanced Mobile Application Development",
+    "credits": 4.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "software": 3,
+      "mobile": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4517": {
+    "id": "CIS4517",
+    "title": "Data-Intensive and Cloud Computing",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "data_science": 3,
+      "cloud": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4523": {
+    "id": "CIS4523",
+    "title": "Knowledge Discovery and Data Mining",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "data_science": 3,
+      "artificial_intelligence": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4524": {
+    "id": "CIS4524",
+    "title": "Analysis and Modeling of Social and Information Networks",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "data_science": 3,
+      "research": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4526": {
+    "id": "CIS4526",
+    "title": "Foundations of Machine Learning",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "artificial_intelligence": 3,
+      "data_science": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4626": {
+    "id": "CIS4626",
+    "title": "Introduction to Deep Learning and Large Language Models",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "artificial_intelligence": 3,
+      "data_science": 2
+    },
+    "metadata_verified": true
+  },
+  "CIS4696": {
+    "id": "CIS4696",
+    "title": "Ethical Hacking and Intrusion Forensics (WI)",
+    "credits": 3.0,
+    "subject": "CIS",
+    "level": 4000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/courses/cis/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cybersecurity": 3,
+      "forensics": 2
+    },
+    "metadata_verified": true
+  },
+  "MATH2101": {
+    "id": "MATH2101",
+    "title": "Linear Algebra",
+    "credits": 3.0,
+    "subject": "MATH",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "MATH2103": {
+    "id": "MATH2103",
+    "title": "Linear Algebra with Computer Lab",
+    "credits": 4.0,
+    "subject": "MATH",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "MATH2043": {
+    "id": "MATH2043",
+    "title": "Calculus III",
+    "credits": 4.0,
+    "subject": "MATH",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/courses/math/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "PSY1001": {
+    "id": "PSY1001",
+    "title": "Introduction to Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY1901": {
+    "id": "PSY1901",
+    "title": "Honors: Introduction to Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": true,
+    "metadata_verified": true
+  },
+  "PSY1002": {
+    "id": "PSY1002",
+    "title": "Careers in Psychology",
+    "credits": 1,
+    "subject": "PSY",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY1003": {
+    "id": "PSY1003",
+    "title": "Statistics for Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY1004": {
+    "id": "PSY1004",
+    "title": "Critical Thinking in Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2101": {
+    "id": "PSY2101",
+    "title": "Foundations of Cognitive Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cognition": 3,
+      "research": 1
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2103": {
+    "id": "PSY2103",
+    "title": "Foundations of Learning and Behavior Analysis",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "behavior": 3,
+      "clinical": 1
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2104": {
+    "id": "PSY2104",
+    "title": "Foundations of Sensation and Perception",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 2,
+      "cognition": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2201": {
+    "id": "PSY2201",
+    "title": "Foundations of Psychopathology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "clinical": 3,
+      "mental_health": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2301": {
+    "id": "PSY2301",
+    "title": "Foundations of Developmental Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "development": 3,
+      "education": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2401": {
+    "id": "PSY2401",
+    "title": "Foundations of Social Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "social_psychology": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2402": {
+    "id": "PSY2402",
+    "title": "Foundations of Industrial and Organizational Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "organizational": 3,
+      "business": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2501": {
+    "id": "PSY2501",
+    "title": "Foundations of Behavioral Neuroscience",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3,
+      "research": 1
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2502": {
+    "id": "PSY2502",
+    "title": "Foundations of Cognitive Neuroscience",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3,
+      "cognition": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY2601": {
+    "id": "PSY2601",
+    "title": "Foundations of Health Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "health": 3,
+      "clinical": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3096": {
+    "id": "PSY3096",
+    "title": "Conducting Psychological Research",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3002": {
+    "id": "PSY3002",
+    "title": "Evolutionary and Comparative Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "research": 2,
+      "cognition": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3003": {
+    "id": "PSY3003",
+    "title": "Advanced Undergraduate Statistics",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "statistics": 3,
+      "research": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3005": {
+    "id": "PSY3005",
+    "title": "Affective Neuroscience",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3100": {
+    "id": "PSY3100",
+    "title": "Topics: Brain, Behavior and Cognition",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "cognition": 3,
+      "research": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3151": {
+    "id": "PSY3151",
+    "title": "Direct Applications of Behavioral Principles",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "behavior": 3,
+      "clinical": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3172": {
+    "id": "PSY3172",
+    "title": "The Science of Sleep",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 2,
+      "health": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3200": {
+    "id": "PSY3200",
+    "title": "Topics: Clinical",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "clinical": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3221": {
+    "id": "PSY3221",
+    "title": "Clinical Psychology: Research and Practice",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "clinical": 3,
+      "mental_health": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3223": {
+    "id": "PSY3223",
+    "title": "Child Psychopathology and Treatment",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "clinical": 3,
+      "development": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3301": {
+    "id": "PSY3301",
+    "title": "Phases of Development: Infancy",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "development": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3303": {
+    "id": "PSY3303",
+    "title": "Psychological Testing: Measuring IQ, Thoughts, Feelings, and Attitudes",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "statistics": 2,
+      "clinical": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3304": {
+    "id": "PSY3304",
+    "title": "Personality, Social and Emotional Development",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "development": 3,
+      "social_psychology": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3305": {
+    "id": "PSY3305",
+    "title": "Cognitive and Language Development",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "development": 3,
+      "cognition": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3306": {
+    "id": "PSY3306",
+    "title": "Neuroscience of Development and Aging",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3,
+      "development": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3411": {
+    "id": "PSY3411",
+    "title": "Social Cognition",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "social_psychology": 3,
+      "cognition": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3413": {
+    "id": "PSY3413",
+    "title": "Psychology of Power, Oppression, and Privilege",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "social_psychology": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3418": {
+    "id": "PSY3418",
+    "title": "Human Performance Improvement",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "organizational": 3,
+      "business": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3561": {
+    "id": "PSY3561",
+    "title": "Psychopharmacology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3,
+      "clinical": 1
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3566": {
+    "id": "PSY3566",
+    "title": "Neurobiology of Learning and Memory",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3,
+      "cognition": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3600": {
+    "id": "PSY3600",
+    "title": "Advanced Topics in Health Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "health": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3601": {
+    "id": "PSY3601",
+    "title": "Social Health Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "health": 3,
+      "social_psychology": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3602": {
+    "id": "PSY3602",
+    "title": "Clinical Neuropsychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "neuroscience": 3,
+      "clinical": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3603": {
+    "id": "PSY3603",
+    "title": "Clinical Applications of Health Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "health": 3,
+      "clinical": 3
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3615": {
+    "id": "PSY3615",
+    "title": "History and Systems of Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "research": 2
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY3620": {
+    "id": "PSY3620",
+    "title": "Topics in Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "research": 1
+    },
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY4696": {
+    "id": "PSY4696",
+    "title": "Capstone in Psychology",
+    "credits": 3,
+    "subject": "PSY",
+    "level": 4000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": false,
+    "metadata_verified": true
+  },
+  "PSY4996": {
+    "id": "PSY4996",
+    "title": "Honors Capstone",
+    "credits": 4,
+    "subject": "PSY",
+    "level": 4000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "honors_only": true,
+    "metadata_verified": true
+  },
+  "BIOL1001": {
+    "id": "BIOL1001",
+    "title": "Human Biology",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "BIOL1011": {
+    "id": "BIOL1011",
+    "title": "General Biology I",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "BIOL1012": {
+    "id": "BIOL1012",
+    "title": "General Biology II",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "BIOL1111": {
+    "id": "BIOL1111",
+    "title": "Introduction to Organismal Biology",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "BIOL1112": {
+    "id": "BIOL1112",
+    "title": "Introduction to Biomolecules, Cells and Genomes",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "BOT1111": {
+    "id": "BOT1111",
+    "title": "General Botany",
+    "credits": 4,
+    "subject": "BOT",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1021": {
+    "id": "CHEM1021",
+    "title": "Introduction to Chemistry I",
+    "credits": 3,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1023": {
+    "id": "CHEM1023",
+    "title": "Introduction to Chemistry Laboratory I",
+    "credits": 1,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1022": {
+    "id": "CHEM1022",
+    "title": "Introduction to Chemistry II",
+    "credits": 3,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1024": {
+    "id": "CHEM1024",
+    "title": "Introduction to Chemistry Laboratory II",
+    "credits": 1,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1031": {
+    "id": "CHEM1031",
+    "title": "General Chemistry I",
+    "credits": 3,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1033": {
+    "id": "CHEM1033",
+    "title": "General Chemistry Laboratory I",
+    "credits": 1,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1032": {
+    "id": "CHEM1032",
+    "title": "General Chemistry II",
+    "credits": 3,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1034": {
+    "id": "CHEM1034",
+    "title": "General Chemistry Laboratory II",
+    "credits": 1,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "CHEM1027": {
+    "id": "CHEM1027",
+    "title": "Applications of Chemistry",
+    "credits": 4,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "EES2001": {
+    "id": "EES2001",
+    "title": "Physical Geology",
+    "credits": 4,
+    "subject": "EES",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "ENST2002": {
+    "id": "ENST2002",
+    "title": "Physical Geography",
+    "credits": 4,
+    "subject": "ENST",
+    "level": 2000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "KINS1223": {
+    "id": "KINS1223",
+    "title": "Human Anatomy and Physiology I",
+    "credits": 4,
+    "subject": "KINS",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "KINS1224": {
+    "id": "KINS1224",
+    "title": "Human Anatomy and Physiology II",
+    "credits": 4,
+    "subject": "KINS",
+    "level": 1000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "PHYS1021": {
+    "id": "PHYS1021",
+    "title": "Introduction to General Physics I",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": true
+  },
+  "BIOL1911": {
+    "id": "BIOL1911",
+    "title": "BIOL1911 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "BIOL1912": {
+    "id": "BIOL1912",
+    "title": "BIOL1912 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "BIOL2112": {
+    "id": "BIOL2112",
+    "title": "BIOL2112 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "BIOL2912": {
+    "id": "BIOL2912",
+    "title": "BIOL2912 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "BIOL",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CHEM1951": {
+    "id": "CHEM1951",
+    "title": "CHEM1951 (lab-science catalog option; verify title/credits)",
+    "credits": null,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "Lecture + lab bundle",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CHEM1953": {
+    "id": "CHEM1953",
+    "title": "CHEM1953 (lab-science catalog option; verify title/credits)",
+    "credits": null,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "Lecture + lab bundle",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CHEM1952": {
+    "id": "CHEM1952",
+    "title": "CHEM1952 (lab-science catalog option; verify title/credits)",
+    "credits": null,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "Lecture + lab bundle",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CHEM1954": {
+    "id": "CHEM1954",
+    "title": "CHEM1954 (lab-science catalog option; verify title/credits)",
+    "credits": null,
+    "subject": "CHEM",
+    "level": 1000,
+    "school": "CST",
+    "source": "Lecture + lab bundle",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "EES2011": {
+    "id": "EES2011",
+    "title": "EES2011 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "EES",
+    "level": 2000,
+    "school": "CST",
+    "source": "Requires CHEM1031",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "EES2021": {
+    "id": "EES2021",
+    "title": "EES2021 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "EES",
+    "level": 2000,
+    "school": "CST",
+    "source": "No CHEM1031 prerequisite noted in program table",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "EES2061": {
+    "id": "EES2061",
+    "title": "EES2061 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "EES",
+    "level": 2000,
+    "school": "CST",
+    "source": "Requires CHEM1031",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "EES3051": {
+    "id": "EES3051",
+    "title": "EES3051 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "EES",
+    "level": 3000,
+    "school": "CST",
+    "source": "No CHEM1031 prerequisite noted in program table",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS1061": {
+    "id": "PHYS1061",
+    "title": "PHYS1061 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS1961": {
+    "id": "PHYS1961",
+    "title": "PHYS1961 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS2021": {
+    "id": "PHYS2021",
+    "title": "PHYS2021 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS2921": {
+    "id": "PHYS2921",
+    "title": "PHYS2921 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS1022": {
+    "id": "PHYS1022",
+    "title": "PHYS1022 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS1062": {
+    "id": "PHYS1062",
+    "title": "PHYS1062 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS1962": {
+    "id": "PHYS1962",
+    "title": "PHYS1962 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 1000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS2022": {
+    "id": "PHYS2022",
+    "title": "PHYS2022 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "PHYS2922": {
+    "id": "PHYS2922",
+    "title": "PHYS2922 (lab-science catalog option; verify title/credits)",
+    "credits": 4,
+    "subject": "PHYS",
+    "level": 2000,
+    "school": "CST",
+    "source": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+    "campus_offerings_verified": false,
+    "tags": {},
+    "metadata_verified": false
+  },
+  "CJ3408": {
+    "id": "CJ3408",
+    "title": "Forensic Psychology",
+    "credits": null,
+    "subject": "CJ",
+    "level": 3000,
+    "school": "CLA",
+    "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+    "campus_offerings_verified": false,
+    "tags": {
+      "clinical": 2
+    },
+    "metadata_verified": false
+  }
+}

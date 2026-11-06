@@ -1,0 +1,34 @@
+{
+  "catalog_year": "2026-27",
+  "primary_sources": [
+    {
+      "name": "Temple 2026-27 Psychology BA degree requirements",
+      "url": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/"
+    },
+    {
+      "name": "Temple 2026-27 Psychology course descriptions",
+      "url": "https://bulletin.temple.edu/courses/psy/"
+    },
+    {
+      "name": "TUJ Psychology major page (different update cycle; cross-check only)",
+      "url": "https://www.tuj.ac.jp/ug/academics/academic-requirements/major-minor-requirements/psychology"
+    },
+    {
+      "name": "Temple CS BA",
+      "url": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-ba/"
+    },
+    {
+      "name": "Temple CS BS",
+      "url": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/"
+    },
+    {
+      "name": "Temple CIS course catalog",
+      "url": "https://bulletin.temple.edu/courses/cis/"
+    }
+  ],
+  "limitations": [
+    "Manual transcription, selected prerequisite excerpts cross-checked against public catalog.",
+    "No actual TUJ schedules imported, no real student records, no GPA/transfer equivalency certification.",
+    "Courses without verified credit metadata are retained for audit but excluded from automatic planning."
+  ]
+}

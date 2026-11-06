@@ -1,0 +1,73 @@
+{
+  "id": "CLA_2026",
+  "name": "Standard CLA GenEd 2026-27",
+  "source": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+  "slots": [
+    {
+      "id": "GW",
+      "label": "Analytical Reading & Writing",
+      "credits": 4,
+      "attribute": "GW"
+    },
+    {
+      "id": "GQ",
+      "label": "Quantitative Literacy",
+      "credits": 4,
+      "attribute": "GQ"
+    },
+    {
+      "id": "GY",
+      "label": "Intellectual Heritage I",
+      "credits": 3,
+      "attribute": "GY"
+    },
+    {
+      "id": "GZ",
+      "label": "Intellectual Heritage II",
+      "credits": 3,
+      "attribute": "GZ"
+    },
+    {
+      "id": "GA",
+      "label": "Arts",
+      "credits": 3,
+      "attribute": "GA"
+    },
+    {
+      "id": "GB",
+      "label": "Human Behavior",
+      "credits": 3,
+      "attribute": "GB"
+    },
+    {
+      "id": "GD",
+      "label": "Race & Diversity",
+      "credits": 3,
+      "attribute": "GD"
+    },
+    {
+      "id": "GG",
+      "label": "World Society",
+      "credits": 3,
+      "attribute": "GG"
+    },
+    {
+      "id": "GS_1",
+      "label": "Science & Technology",
+      "credits": 3,
+      "attribute": "GS"
+    },
+    {
+      "id": "GS_2",
+      "label": "Science & Technology",
+      "credits": 3,
+      "attribute": "GS"
+    },
+    {
+      "id": "GU",
+      "label": "U.S. Society",
+      "credits": 3,
+      "attribute": "GU"
+    }
+  ]
+}

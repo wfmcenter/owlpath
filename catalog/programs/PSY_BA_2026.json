@@ -1,0 +1,492 @@
+{
+  "program_id": "PSY_BA_2026",
+  "major": "Psychology",
+  "degree": "BA",
+  "catalog_year": "2026-27",
+  "total_degree_credits": 123,
+  "gened_template": "CLA_2026",
+  "source_url": "https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/",
+  "groups": [
+    {
+      "id": "INTRO",
+      "label": "Introduction to Psychology",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY1001"
+        ],
+        [
+          "PSY1901"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CAREERS",
+      "label": "Careers in Psychology",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY1002"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "STATS",
+      "label": "Statistics for Psychology",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY1003"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "THINK",
+      "label": "Critical Thinking in Psychology",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY1004"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "SCIENCE",
+      "label": "Approved four-credit science option (including lecture+lab bundles)",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "BIOL1001"
+        ],
+        [
+          "BIOL1011"
+        ],
+        [
+          "BIOL1012"
+        ],
+        [
+          "BIOL1111"
+        ],
+        [
+          "BIOL1112"
+        ],
+        [
+          "BOT1111"
+        ],
+        [
+          "CHEM1021",
+          "CHEM1023"
+        ],
+        [
+          "CHEM1022",
+          "CHEM1024"
+        ],
+        [
+          "CHEM1027"
+        ],
+        [
+          "CHEM1031",
+          "CHEM1033"
+        ],
+        [
+          "CHEM1032",
+          "CHEM1034"
+        ],
+        [
+          "EES2001"
+        ],
+        [
+          "ENST2002"
+        ],
+        [
+          "KINS1223"
+        ],
+        [
+          "KINS1224"
+        ],
+        [
+          "PHYS1021"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "DCS",
+      "label": "Developmental / Clinical / Social foundations — choose 2",
+      "type": "choose",
+      "count": 2,
+      "choices": [
+        [
+          "PSY2201"
+        ],
+        [
+          "PSY2301"
+        ],
+        [
+          "PSY2401"
+        ],
+        [
+          "PSY2402"
+        ],
+        [
+          "PSY2601"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "BCS",
+      "label": "Brain & Cognitive Sciences foundations — choose 2",
+      "type": "choose",
+      "count": 2,
+      "choices": [
+        [
+          "PSY2101"
+        ],
+        [
+          "PSY2103"
+        ],
+        [
+          "PSY2104"
+        ],
+        [
+          "PSY2501"
+        ],
+        [
+          "PSY2502"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "METHODS",
+      "label": "Conducting Psychological Research (WI)",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY3096"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "ADVANCED",
+      "label": "Advanced Psychology — choose 3",
+      "type": "choose",
+      "count": 3,
+      "choices": [
+        [
+          "PSY3002"
+        ],
+        [
+          "PSY3003"
+        ],
+        [
+          "PSY3005"
+        ],
+        [
+          "PSY3100"
+        ],
+        [
+          "PSY3151"
+        ],
+        [
+          "PSY3172"
+        ],
+        [
+          "PSY3200"
+        ],
+        [
+          "PSY3221"
+        ],
+        [
+          "PSY3223"
+        ],
+        [
+          "PSY3301"
+        ],
+        [
+          "PSY3303"
+        ],
+        [
+          "PSY3304"
+        ],
+        [
+          "PSY3305"
+        ],
+        [
+          "PSY3306"
+        ],
+        [
+          "PSY3411"
+        ],
+        [
+          "PSY3413"
+        ],
+        [
+          "PSY3418"
+        ],
+        [
+          "PSY3561"
+        ],
+        [
+          "PSY3566"
+        ],
+        [
+          "PSY3600"
+        ],
+        [
+          "PSY3601"
+        ],
+        [
+          "PSY3602"
+        ],
+        [
+          "PSY3603"
+        ],
+        [
+          "PSY3615"
+        ],
+        [
+          "PSY3620"
+        ],
+        [
+          "CJ3408"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "PSY_ELECTIVE",
+      "label": "Additional 2000–3999 Psychology elective",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY2201"
+        ],
+        [
+          "PSY2301"
+        ],
+        [
+          "PSY2401"
+        ],
+        [
+          "PSY2402"
+        ],
+        [
+          "PSY2601"
+        ],
+        [
+          "PSY2101"
+        ],
+        [
+          "PSY2103"
+        ],
+        [
+          "PSY2104"
+        ],
+        [
+          "PSY2501"
+        ],
+        [
+          "PSY2502"
+        ],
+        [
+          "PSY3002"
+        ],
+        [
+          "PSY3003"
+        ],
+        [
+          "PSY3005"
+        ],
+        [
+          "PSY3100"
+        ],
+        [
+          "PSY3151"
+        ],
+        [
+          "PSY3172"
+        ],
+        [
+          "PSY3200"
+        ],
+        [
+          "PSY3221"
+        ],
+        [
+          "PSY3223"
+        ],
+        [
+          "PSY3301"
+        ],
+        [
+          "PSY3303"
+        ],
+        [
+          "PSY3304"
+        ],
+        [
+          "PSY3305"
+        ],
+        [
+          "PSY3306"
+        ],
+        [
+          "PSY3411"
+        ],
+        [
+          "PSY3413"
+        ],
+        [
+          "PSY3418"
+        ],
+        [
+          "PSY3561"
+        ],
+        [
+          "PSY3566"
+        ],
+        [
+          "PSY3600"
+        ],
+        [
+          "PSY3601"
+        ],
+        [
+          "PSY3602"
+        ],
+        [
+          "PSY3603"
+        ],
+        [
+          "PSY3615"
+        ],
+        [
+          "PSY3620"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CAPSTONE",
+      "label": "Psychology senior capstone (WI)",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "PSY4696"
+        ],
+        [
+          "PSY4996"
+        ]
+      ],
+      "section": "major"
+    }
+  ],
+  "other_slots": [
+    {
+      "id": "LANG_LEVEL1",
+      "label": "Foreign language level 1 (provisional)",
+      "credits": 4,
+      "waive_flag": "language_level_2"
+    },
+    {
+      "id": "LANG_LEVEL2",
+      "label": "Foreign language level 2 (provisional)",
+      "credits": 4,
+      "waive_flag": "language_level_2"
+    },
+    {
+      "id": "CLA_GLOBAL_OPTION",
+      "label": "CLA BA additional global studies/language option (provisional)",
+      "credits": 3,
+      "waive_flag": "global_option_met"
+    }
+  ],
+  "checks": [
+    {
+      "id": "college90",
+      "kind": "credits_scope",
+      "min_credits": 90,
+      "schools": [
+        "CLA",
+        "CST"
+      ],
+      "status_if_unknown": "manual"
+    },
+    {
+      "id": "college_upper45",
+      "kind": "credits_scope",
+      "min_credits": 45,
+      "schools": [
+        "CLA",
+        "CST"
+      ],
+      "min_level": 2000,
+      "status_if_unknown": "manual"
+    },
+    {
+      "id": "humanities_upper6",
+      "kind": "credits_scope",
+      "min_credits": 6,
+      "schools": [
+        "CST",
+        "CLA_HUMANITIES"
+      ],
+      "min_level": 2000,
+      "status_if_unknown": "manual"
+    },
+    {
+      "id": "major_min44",
+      "kind": "major_credits",
+      "min_credits": 44
+    },
+    {
+      "id": "major_wi",
+      "kind": "courses_complete",
+      "courses": [
+        "PSY3096"
+      ],
+      "and_one_of": [
+        "PSY4696",
+        "PSY4996"
+      ]
+    },
+    {
+      "id": "language_level2",
+      "kind": "slot_or_flag",
+      "slot_id": "LANG_LEVEL2",
+      "flag": "language_level_2"
+    },
+    {
+      "id": "global_option",
+      "kind": "slot_or_flag",
+      "slot_id": "CLA_GLOBAL_OPTION",
+      "flag": "global_option_met"
+    },
+    {
+      "id": "cla_major_gpa",
+      "kind": "manual",
+      "reason": "Major and CLA GPA of at least 2.0 cannot be inferred from all synthetic course placeholders."
+    }
+  ],
+  "min_grade": "C-",
+  "notes": [
+    "Psychology honors capstone requires separate honors approval; regular PSY4696 is default.",
+    "Advising must confirm CLA foreign-language, global studies and humanities rules.",
+    "TUJ offerings and 2026-27 course rotations are not verified."
+  ]
+}

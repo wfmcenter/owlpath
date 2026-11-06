@@ -1,0 +1,666 @@
+{
+  "program_id": "CS_BS_2026",
+  "major": "Computer Science",
+  "degree": "BS",
+  "catalog_year": "2026-27",
+  "total_degree_credits": 123,
+  "gened_template": "CST_2026",
+  "source_url": "https://bulletin.temple.edu/undergraduate/science-technology/computer-science-bs/",
+  "groups": [
+    {
+      "id": "SEMINAR",
+      "label": "Complete first-year or transfer CST seminar",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "SCTC1001"
+        ],
+        [
+          "SCTC2001"
+        ]
+      ],
+      "section": "college"
+    },
+    {
+      "id": "CIS1001",
+      "label": "CIS 1001",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS1001"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "INTRO",
+      "label": "Choose one introductory programming option",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS1051"
+        ],
+        [
+          "CIS1951"
+        ],
+        [
+          "CIS1057"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "DESIGN",
+      "label": "Choose Program Design and Abstraction or honors equivalent",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS1068"
+        ],
+        [
+          "CIS1968"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "MATHCOMP1",
+      "label": "Choose Mathematical Concepts in Computing I or honors equivalent",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS1166"
+        ],
+        [
+          "CIS1966"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS2107",
+      "label": "CIS2107",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS2107"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS2166",
+      "label": "CIS2166",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS2166"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS2168",
+      "label": "CIS2168",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS2168"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS3207",
+      "label": "CIS3207",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS3207"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS3223",
+      "label": "CIS3223",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS3223"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS3296",
+      "label": "CIS3296",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS3296"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CAPSTONE",
+      "label": "Choose CIS 4397 or CIS 4398 for second WI/capstone",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS4397"
+        ],
+        [
+          "CIS4398"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CALC1",
+      "label": "Choose Calculus I or Honors Calculus I",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "MATH1041"
+        ],
+        [
+          "MATH1941"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CALC2",
+      "label": "Choose Calculus II or Honors Calculus II",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "MATH1042"
+        ],
+        [
+          "MATH1942"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "CIS2033",
+      "label": "CIS 2033 Computational Probability and Statistics",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "CIS2033"
+        ]
+      ],
+      "section": "major"
+    },
+    {
+      "id": "LABSEQ",
+      "label": "Same-department laboratory science sequence (A then B)",
+      "type": "choose",
+      "count": 1,
+      "choices": [
+        [
+          "BIOL1011",
+          "BIOL1012"
+        ],
+        [
+          "BIOL1011",
+          "BIOL1112"
+        ],
+        [
+          "BIOL1011",
+          "BIOL1912"
+        ],
+        [
+          "BIOL1011",
+          "BIOL2112"
+        ],
+        [
+          "BIOL1011",
+          "BIOL2912"
+        ],
+        [
+          "BIOL1111",
+          "BIOL1012"
+        ],
+        [
+          "BIOL1111",
+          "BIOL1112"
+        ],
+        [
+          "BIOL1111",
+          "BIOL1912"
+        ],
+        [
+          "BIOL1111",
+          "BIOL2112"
+        ],
+        [
+          "BIOL1111",
+          "BIOL2912"
+        ],
+        [
+          "BIOL1911",
+          "BIOL1012"
+        ],
+        [
+          "BIOL1911",
+          "BIOL1112"
+        ],
+        [
+          "BIOL1911",
+          "BIOL1912"
+        ],
+        [
+          "BIOL1911",
+          "BIOL2112"
+        ],
+        [
+          "BIOL1911",
+          "BIOL2912"
+        ],
+        [
+          "CHEM1021",
+          "CHEM1023",
+          "CHEM1022",
+          "CHEM1024"
+        ],
+        [
+          "CHEM1021",
+          "CHEM1023",
+          "CHEM1032",
+          "CHEM1034"
+        ],
+        [
+          "CHEM1021",
+          "CHEM1023",
+          "CHEM1952",
+          "CHEM1954"
+        ],
+        [
+          "CHEM1031",
+          "CHEM1033",
+          "CHEM1022",
+          "CHEM1024"
+        ],
+        [
+          "CHEM1031",
+          "CHEM1033",
+          "CHEM1032",
+          "CHEM1034"
+        ],
+        [
+          "CHEM1031",
+          "CHEM1033",
+          "CHEM1952",
+          "CHEM1954"
+        ],
+        [
+          "CHEM1951",
+          "CHEM1953",
+          "CHEM1022",
+          "CHEM1024"
+        ],
+        [
+          "CHEM1951",
+          "CHEM1953",
+          "CHEM1032",
+          "CHEM1034"
+        ],
+        [
+          "CHEM1951",
+          "CHEM1953",
+          "CHEM1952",
+          "CHEM1954"
+        ],
+        [
+          "EES2001",
+          "EES2011"
+        ],
+        [
+          "EES2001",
+          "EES2021"
+        ],
+        [
+          "EES2001",
+          "EES2061"
+        ],
+        [
+          "EES2001",
+          "EES3051"
+        ],
+        [
+          "PHYS1021",
+          "PHYS1022"
+        ],
+        [
+          "PHYS1021",
+          "PHYS1062"
+        ],
+        [
+          "PHYS1021",
+          "PHYS1962"
+        ],
+        [
+          "PHYS1021",
+          "PHYS2022"
+        ],
+        [
+          "PHYS1021",
+          "PHYS2922"
+        ],
+        [
+          "PHYS1061",
+          "PHYS1022"
+        ],
+        [
+          "PHYS1061",
+          "PHYS1062"
+        ],
+        [
+          "PHYS1061",
+          "PHYS1962"
+        ],
+        [
+          "PHYS1061",
+          "PHYS2022"
+        ],
+        [
+          "PHYS1061",
+          "PHYS2922"
+        ],
+        [
+          "PHYS1961",
+          "PHYS1022"
+        ],
+        [
+          "PHYS1961",
+          "PHYS1062"
+        ],
+        [
+          "PHYS1961",
+          "PHYS1962"
+        ],
+        [
+          "PHYS1961",
+          "PHYS2022"
+        ],
+        [
+          "PHYS1961",
+          "PHYS2922"
+        ],
+        [
+          "PHYS2021",
+          "PHYS1022"
+        ],
+        [
+          "PHYS2021",
+          "PHYS1062"
+        ],
+        [
+          "PHYS2021",
+          "PHYS1962"
+        ],
+        [
+          "PHYS2021",
+          "PHYS2022"
+        ],
+        [
+          "PHYS2021",
+          "PHYS2922"
+        ],
+        [
+          "PHYS2921",
+          "PHYS1022"
+        ],
+        [
+          "PHYS2921",
+          "PHYS1062"
+        ],
+        [
+          "PHYS2921",
+          "PHYS1962"
+        ],
+        [
+          "PHYS2921",
+          "PHYS2022"
+        ],
+        [
+          "PHYS2921",
+          "PHYS2922"
+        ]
+      ],
+      "bundle_order": "separate_terms",
+      "section": "major"
+    },
+    {
+      "id": "CS_ELECTIVES",
+      "label": "Approved Computer Science electives",
+      "type": "credits",
+      "min_credits": 15,
+      "max_credits": 16,
+      "choices": [
+        [
+          "CIS3100"
+        ],
+        [
+          "CIS3203"
+        ],
+        [
+          "CIS3211"
+        ],
+        [
+          "CIS3217"
+        ],
+        [
+          "CIS3308"
+        ],
+        [
+          "CIS3319"
+        ],
+        [
+          "CIS3374"
+        ],
+        [
+          "CIS3381"
+        ],
+        [
+          "CIS3441"
+        ],
+        [
+          "CIS3515"
+        ],
+        [
+          "CIS3523"
+        ],
+        [
+          "CIS3603"
+        ],
+        [
+          "CIS3605"
+        ],
+        [
+          "CIS3655"
+        ],
+        [
+          "CIS3715"
+        ],
+        [
+          "CIS3755"
+        ],
+        [
+          "CIS4203"
+        ],
+        [
+          "CIS4282"
+        ],
+        [
+          "CIS4307"
+        ],
+        [
+          "CIS4319"
+        ],
+        [
+          "CIS4324"
+        ],
+        [
+          "CIS4429"
+        ],
+        [
+          "CIS4331"
+        ],
+        [
+          "CIS4345"
+        ],
+        [
+          "CIS4350"
+        ],
+        [
+          "CIS4360"
+        ],
+        [
+          "CIS4397"
+        ],
+        [
+          "CIS4398"
+        ],
+        [
+          "CIS4419"
+        ],
+        [
+          "CIS4515"
+        ],
+        [
+          "CIS4517"
+        ],
+        [
+          "CIS4523"
+        ],
+        [
+          "CIS4524"
+        ],
+        [
+          "CIS4526"
+        ],
+        [
+          "CIS4626"
+        ],
+        [
+          "CIS4696"
+        ],
+        [
+          "MATH2101"
+        ],
+        [
+          "MATH2103"
+        ],
+        [
+          "MATH2043"
+        ]
+      ],
+      "exclude_used_by_other_groups": true,
+      "limits": [
+        {
+          "choices": [
+            "MATH2101",
+            "MATH2103",
+            "MATH2043"
+          ],
+          "max_courses": 1
+        },
+        {
+          "choices": [
+            "CIS3381"
+          ],
+          "max_credits": 4
+        },
+        {
+          "choices": [
+            "CIS3381",
+            "CIS4282"
+          ],
+          "max_credits": 8
+        }
+      ],
+      "section": "major"
+    }
+  ],
+  "other_slots": [],
+  "checks": [
+    {
+      "id": "college90",
+      "kind": "credits_scope",
+      "min_credits": 90,
+      "schools": [
+        "CST",
+        "CLA",
+        "ENG"
+      ],
+      "status_if_unknown": "manual"
+    },
+    {
+      "id": "college_upper45",
+      "kind": "credits_scope",
+      "min_credits": 45,
+      "min_level": 2000,
+      "schools": [
+        "CST",
+        "CLA",
+        "ENG"
+      ],
+      "status_if_unknown": "manual"
+    },
+    {
+      "id": "major_credit_min",
+      "kind": "major_credits",
+      "min_credits": 73
+    },
+    {
+      "id": "residency_major",
+      "kind": "residency",
+      "min_courses": 9,
+      "scope": "major"
+    },
+    {
+      "id": "residency_subject",
+      "kind": "residency",
+      "min_courses": 7,
+      "scope": "subject",
+      "subject": "CIS"
+    },
+    {
+      "id": "writing_intensive",
+      "kind": "courses_complete",
+      "courses": [
+        "CIS3296"
+      ],
+      "and_one_of": [
+        "CIS4397",
+        "CIS4398"
+      ]
+    }
+  ],
+  "min_grade": "C-",
+  "notes": [
+    "TUJ offerings and free electives are not verified for future terms.",
+    "CST/CLA/ENG credit classification of generic slots requires advisor review."
+  ]
+}

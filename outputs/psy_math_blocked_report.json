@@ -1,0 +1,49 @@
+{
+  "program": "Psychology BA",
+  "program_id": "PSY_BA_2026",
+  "student": {
+    "student_id": "SYNTHETIC_PSY_MATH_BLOCKED",
+    "program_id": "PSY_BA_2026",
+    "catalog_year": "2026-27",
+    "campus_preference": "Tokyo",
+    "completed_courses": [],
+    "other_completed_credits": 0,
+    "preferences": {
+      "target_credits_per_term": 15,
+      "interest_weights": {
+        "neuroscience": 5,
+        "cognition": 5,
+        "research": 4,
+        "clinical": 1
+      },
+      "career_tags": [
+        "neuroscience",
+        "research"
+      ]
+    },
+    "prototype_flags": {
+      "math_ready": false,
+      "language_level_2": false,
+      "global_option_met": false,
+      "honors_approved": false
+    }
+  },
+  "plans": {
+    "fastest": {
+      "ok": false,
+      "plan": null,
+      "error": "Statistics for Psychology: only 0/1 verified distinct course options available"
+    },
+    "balanced": {
+      "ok": false,
+      "plan": null,
+      "error": "Statistics for Psychology: only 0/1 verified distinct course options available"
+    },
+    "interest": {
+      "ok": false,
+      "plan": null,
+      "error": "Statistics for Psychology: only 0/1 verified distinct course options available"
+    }
+  },
+  "notice": "Synthetic/provisional decision-support only; not an official graduation audit."
+}

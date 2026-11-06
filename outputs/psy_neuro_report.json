@@ -1,0 +1,1643 @@
+{
+  "program": "Psychology BA",
+  "program_id": "PSY_BA_2026",
+  "student": {
+    "student_id": "SYNTHETIC_PSY_NEURO",
+    "program_id": "PSY_BA_2026",
+    "catalog_year": "2026-27",
+    "campus_preference": "Tokyo",
+    "completed_courses": [
+      {
+        "course_id": "PSY1001",
+        "grade": "A",
+        "credits": 3,
+        "at_temple": true
+      },
+      {
+        "course_id": "PSY1002",
+        "grade": "A",
+        "credits": 1,
+        "at_temple": true
+      },
+      {
+        "course_id": "PSY1003",
+        "grade": "B+",
+        "credits": 3,
+        "at_temple": true
+      },
+      {
+        "course_id": "PSY1004",
+        "grade": "A-",
+        "credits": 3,
+        "at_temple": true
+      },
+      {
+        "course_id": "GW_SLOT",
+        "grade": "B",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "GY_SLOT",
+        "grade": "B",
+        "credits": 3,
+        "at_temple": true
+      }
+    ],
+    "other_completed_credits": 0,
+    "preferences": {
+      "target_credits_per_term": 15,
+      "interest_weights": {
+        "neuroscience": 5,
+        "cognition": 5,
+        "research": 4,
+        "clinical": 1
+      },
+      "career_tags": [
+        "neuroscience",
+        "research"
+      ]
+    },
+    "prototype_flags": {
+      "math_ready": true,
+      "language_level_2": false,
+      "global_option_met": false,
+      "honors_approved": false
+    }
+  },
+  "plans": {
+    "fastest": {
+      "ok": true,
+      "plan": {
+        "strategy": "fastest",
+        "program_id": "PSY_BA_2026",
+        "terms": [
+          {
+            "term": 1,
+            "credits": 13.0,
+            "items": [
+              {
+                "id": "PSY2501",
+                "title": "Foundations of Behavioral Neuroscience",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.86
+              },
+              {
+                "id": "PSY2502",
+                "title": "Foundations of Cognitive Neuroscience",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.1
+              },
+              {
+                "id": "PSY2104",
+                "title": "Foundations of Sensation and Perception",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.1
+              },
+              {
+                "id": "BIOL1001",
+                "title": "Human Biology",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              }
+            ]
+          },
+          {
+            "term": 2,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY3096",
+                "title": "Conducting Psychological Research",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "PSY2201",
+                "title": "Foundations of Psychopathology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0.42
+              },
+              {
+                "id": "PSY2601",
+                "title": "Foundations of Health Psychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0.28
+              },
+              {
+                "id": "PSY3100",
+                "title": "Topics: Brain, Behavior and Cognition",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.82
+              },
+              {
+                "id": "PSY3566",
+                "title": "Neurobiology of Learning and Memory",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.4
+              }
+            ]
+          },
+          {
+            "term": 3,
+            "credits": 13.0,
+            "items": [
+              {
+                "id": "PSY3602",
+                "title": "Clinical Neuropsychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.28
+              },
+              {
+                "id": "GQ_SLOT",
+                "title": "GenEd: Quantitative Literacy (provisional slot)",
+                "credits": 4.0,
+                "kind": "gened_slot",
+                "reason": "GQ"
+              },
+              {
+                "id": "GZ_SLOT",
+                "title": "GenEd: Intellectual Heritage II (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GZ"
+              },
+              {
+                "id": "GA_SLOT",
+                "title": "GenEd: Arts (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GA"
+              }
+            ]
+          },
+          {
+            "term": 4,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "GB_SLOT",
+                "title": "GenEd: Human Behavior (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GB"
+              },
+              {
+                "id": "GD_SLOT",
+                "title": "GenEd: Race & Diversity (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GD"
+              },
+              {
+                "id": "GG_SLOT",
+                "title": "GenEd: World Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GG"
+              },
+              {
+                "id": "GS_1_SLOT",
+                "title": "GenEd: Science & Technology (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GS_1"
+              },
+              {
+                "id": "GS_2_SLOT",
+                "title": "GenEd: Science & Technology (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GS_2"
+              }
+            ]
+          },
+          {
+            "term": 5,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "GU_SLOT",
+                "title": "GenEd: U.S. Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GU"
+              },
+              {
+                "id": "LANG_LEVEL1_SLOT",
+                "title": "Foreign language level 1 (provisional)",
+                "credits": 4.0,
+                "kind": "other_slot",
+                "reason": "LANG_LEVEL1"
+              },
+              {
+                "id": "LANG_LEVEL2_SLOT",
+                "title": "Foreign language level 2 (provisional)",
+                "credits": 4.0,
+                "kind": "other_slot",
+                "reason": "LANG_LEVEL2"
+              },
+              {
+                "id": "CLA_GLOBAL_OPTION_SLOT",
+                "title": "CLA BA additional global studies/language option (provisional)",
+                "credits": 3.0,
+                "kind": "other_slot",
+                "reason": "CLA_GLOBAL_OPTION"
+              }
+            ]
+          },
+          {
+            "term": 6,
+            "credits": 15,
+            "items": [
+              {
+                "id": "FREE_001_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_002_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_003_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_004_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_005_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 7,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY4696",
+                "title": "Capstone in Psychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "FREE_006_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_007_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_008_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_009_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 8,
+            "credits": 6,
+            "items": [
+              {
+                "id": "FREE_010_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_011_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          }
+        ],
+        "completed_credits": 17.0,
+        "projected_total_credits": 123.0,
+        "group_choices": {
+          "INTRO": [
+            [
+              "PSY1001"
+            ]
+          ],
+          "CAREERS": [
+            [
+              "PSY1002"
+            ]
+          ],
+          "STATS": [
+            [
+              "PSY1003"
+            ]
+          ],
+          "THINK": [
+            [
+              "PSY1004"
+            ]
+          ],
+          "SCIENCE": [
+            [
+              "BIOL1001"
+            ]
+          ],
+          "DCS": [
+            [
+              "PSY2201"
+            ],
+            [
+              "PSY2601"
+            ]
+          ],
+          "BCS": [
+            [
+              "PSY2502"
+            ],
+            [
+              "PSY2104"
+            ]
+          ],
+          "METHODS": [
+            [
+              "PSY3096"
+            ]
+          ],
+          "ADVANCED": [
+            [
+              "PSY3566"
+            ],
+            [
+              "PSY3100"
+            ],
+            [
+              "PSY3602"
+            ]
+          ],
+          "PSY_ELECTIVE": [
+            [
+              "PSY2501"
+            ]
+          ],
+          "CAPSTONE": [
+            [
+              "PSY4696"
+            ]
+          ]
+        },
+        "verification": {
+          "modeled_pass": true,
+          "prerequisites_valid": true,
+          "group_results": [
+            {
+              "id": "INTRO",
+              "label": "Introduction to Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CAREERS",
+              "label": "Careers in Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "STATS",
+              "label": "Statistics for Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "THINK",
+              "label": "Critical Thinking in Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "SCIENCE",
+              "label": "Approved four-credit science option (including lecture+lab bundles)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "DCS",
+              "label": "Developmental / Clinical / Social foundations — choose 2",
+              "passed": true,
+              "course_count": 2,
+              "credits": 6.0
+            },
+            {
+              "id": "BCS",
+              "label": "Brain & Cognitive Sciences foundations — choose 2",
+              "passed": true,
+              "course_count": 2,
+              "credits": 6.0
+            },
+            {
+              "id": "METHODS",
+              "label": "Conducting Psychological Research (WI)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "ADVANCED",
+              "label": "Advanced Psychology — choose 3",
+              "passed": true,
+              "course_count": 3,
+              "credits": 9.0
+            },
+            {
+              "id": "PSY_ELECTIVE",
+              "label": "Additional 2000–3999 Psychology elective",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CAPSTONE",
+              "label": "Psychology senior capstone (WI)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            }
+          ],
+          "checks": [
+            {
+              "id": "college90",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "college_upper45",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "humanities_upper6",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "major_min44",
+              "kind": "major_credits",
+              "status": "passed",
+              "result": 44.0
+            },
+            {
+              "id": "major_wi",
+              "kind": "courses_complete",
+              "status": "passed",
+              "result": true
+            },
+            {
+              "id": "language_level2",
+              "kind": "slot_or_flag",
+              "status": "provisional",
+              "result": true
+            },
+            {
+              "id": "global_option",
+              "kind": "slot_or_flag",
+              "status": "provisional",
+              "result": true
+            },
+            {
+              "id": "cla_major_gpa",
+              "kind": "manual",
+              "status": "manual",
+              "result": "Major and CLA GPA of at least 2.0 cannot be inferred from all synthetic course placeholders."
+            }
+          ],
+          "manual_review": [
+            "college90",
+            "college_upper45",
+            "humanities_upper6",
+            "language_level2",
+            "global_option",
+            "cla_major_gpa"
+          ],
+          "errors": [],
+          "projected_credits": 123.0,
+          "provisional_slots": 23,
+          "campus_offerings_verified": false,
+          "status": "MODELED PASS — ADVISOR REVIEW REQUIRED"
+        }
+      },
+      "error": null
+    },
+    "balanced": {
+      "ok": true,
+      "plan": {
+        "strategy": "balanced",
+        "program_id": "PSY_BA_2026",
+        "terms": [
+          {
+            "term": 1,
+            "credits": 13.0,
+            "items": [
+              {
+                "id": "PSY2501",
+                "title": "Foundations of Behavioral Neuroscience",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.86
+              },
+              {
+                "id": "PSY2502",
+                "title": "Foundations of Cognitive Neuroscience",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.1
+              },
+              {
+                "id": "PSY2104",
+                "title": "Foundations of Sensation and Perception",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.1
+              },
+              {
+                "id": "GQ_SLOT",
+                "title": "GenEd: Quantitative Literacy (provisional slot)",
+                "credits": 4.0,
+                "kind": "gened_slot",
+                "reason": "GQ"
+              }
+            ]
+          },
+          {
+            "term": 2,
+            "credits": 13.0,
+            "items": [
+              {
+                "id": "PSY3096",
+                "title": "Conducting Psychological Research",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "BIOL1001",
+                "title": "Human Biology",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "PSY2201",
+                "title": "Foundations of Psychopathology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0.42
+              },
+              {
+                "id": "GZ_SLOT",
+                "title": "GenEd: Intellectual Heritage II (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GZ"
+              }
+            ]
+          },
+          {
+            "term": 3,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY2601",
+                "title": "Foundations of Health Psychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0.28
+              },
+              {
+                "id": "PSY3100",
+                "title": "Topics: Brain, Behavior and Cognition",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.82
+              },
+              {
+                "id": "PSY3566",
+                "title": "Neurobiology of Learning and Memory",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.4
+              },
+              {
+                "id": "GA_SLOT",
+                "title": "GenEd: Arts (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GA"
+              },
+              {
+                "id": "GB_SLOT",
+                "title": "GenEd: Human Behavior (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GB"
+              }
+            ]
+          },
+          {
+            "term": 4,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY3602",
+                "title": "Clinical Neuropsychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.28
+              },
+              {
+                "id": "GD_SLOT",
+                "title": "GenEd: Race & Diversity (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GD"
+              },
+              {
+                "id": "GG_SLOT",
+                "title": "GenEd: World Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GG"
+              },
+              {
+                "id": "GS_1_SLOT",
+                "title": "GenEd: Science & Technology (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GS_1"
+              },
+              {
+                "id": "GS_2_SLOT",
+                "title": "GenEd: Science & Technology (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GS_2"
+              }
+            ]
+          },
+          {
+            "term": 5,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "GU_SLOT",
+                "title": "GenEd: U.S. Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GU"
+              },
+              {
+                "id": "LANG_LEVEL1_SLOT",
+                "title": "Foreign language level 1 (provisional)",
+                "credits": 4.0,
+                "kind": "other_slot",
+                "reason": "LANG_LEVEL1"
+              },
+              {
+                "id": "LANG_LEVEL2_SLOT",
+                "title": "Foreign language level 2 (provisional)",
+                "credits": 4.0,
+                "kind": "other_slot",
+                "reason": "LANG_LEVEL2"
+              },
+              {
+                "id": "CLA_GLOBAL_OPTION_SLOT",
+                "title": "CLA BA additional global studies/language option (provisional)",
+                "credits": 3.0,
+                "kind": "other_slot",
+                "reason": "CLA_GLOBAL_OPTION"
+              }
+            ]
+          },
+          {
+            "term": 6,
+            "credits": 15,
+            "items": [
+              {
+                "id": "FREE_001_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_002_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_003_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_004_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_005_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 7,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY4696",
+                "title": "Capstone in Psychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "FREE_006_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_007_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_008_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_009_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 8,
+            "credits": 6,
+            "items": [
+              {
+                "id": "FREE_010_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_011_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          }
+        ],
+        "completed_credits": 17.0,
+        "projected_total_credits": 123.0,
+        "group_choices": {
+          "INTRO": [
+            [
+              "PSY1001"
+            ]
+          ],
+          "CAREERS": [
+            [
+              "PSY1002"
+            ]
+          ],
+          "STATS": [
+            [
+              "PSY1003"
+            ]
+          ],
+          "THINK": [
+            [
+              "PSY1004"
+            ]
+          ],
+          "SCIENCE": [
+            [
+              "BIOL1001"
+            ]
+          ],
+          "DCS": [
+            [
+              "PSY2201"
+            ],
+            [
+              "PSY2601"
+            ]
+          ],
+          "BCS": [
+            [
+              "PSY2502"
+            ],
+            [
+              "PSY2104"
+            ]
+          ],
+          "METHODS": [
+            [
+              "PSY3096"
+            ]
+          ],
+          "ADVANCED": [
+            [
+              "PSY3566"
+            ],
+            [
+              "PSY3100"
+            ],
+            [
+              "PSY3602"
+            ]
+          ],
+          "PSY_ELECTIVE": [
+            [
+              "PSY2501"
+            ]
+          ],
+          "CAPSTONE": [
+            [
+              "PSY4696"
+            ]
+          ]
+        },
+        "verification": {
+          "modeled_pass": true,
+          "prerequisites_valid": true,
+          "group_results": [
+            {
+              "id": "INTRO",
+              "label": "Introduction to Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CAREERS",
+              "label": "Careers in Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "STATS",
+              "label": "Statistics for Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "THINK",
+              "label": "Critical Thinking in Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "SCIENCE",
+              "label": "Approved four-credit science option (including lecture+lab bundles)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "DCS",
+              "label": "Developmental / Clinical / Social foundations — choose 2",
+              "passed": true,
+              "course_count": 2,
+              "credits": 6.0
+            },
+            {
+              "id": "BCS",
+              "label": "Brain & Cognitive Sciences foundations — choose 2",
+              "passed": true,
+              "course_count": 2,
+              "credits": 6.0
+            },
+            {
+              "id": "METHODS",
+              "label": "Conducting Psychological Research (WI)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "ADVANCED",
+              "label": "Advanced Psychology — choose 3",
+              "passed": true,
+              "course_count": 3,
+              "credits": 9.0
+            },
+            {
+              "id": "PSY_ELECTIVE",
+              "label": "Additional 2000–3999 Psychology elective",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CAPSTONE",
+              "label": "Psychology senior capstone (WI)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            }
+          ],
+          "checks": [
+            {
+              "id": "college90",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "college_upper45",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "humanities_upper6",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "major_min44",
+              "kind": "major_credits",
+              "status": "passed",
+              "result": 44.0
+            },
+            {
+              "id": "major_wi",
+              "kind": "courses_complete",
+              "status": "passed",
+              "result": true
+            },
+            {
+              "id": "language_level2",
+              "kind": "slot_or_flag",
+              "status": "provisional",
+              "result": true
+            },
+            {
+              "id": "global_option",
+              "kind": "slot_or_flag",
+              "status": "provisional",
+              "result": true
+            },
+            {
+              "id": "cla_major_gpa",
+              "kind": "manual",
+              "status": "manual",
+              "result": "Major and CLA GPA of at least 2.0 cannot be inferred from all synthetic course placeholders."
+            }
+          ],
+          "manual_review": [
+            "college90",
+            "college_upper45",
+            "humanities_upper6",
+            "language_level2",
+            "global_option",
+            "cla_major_gpa"
+          ],
+          "errors": [],
+          "projected_credits": 123.0,
+          "provisional_slots": 23,
+          "campus_offerings_verified": false,
+          "status": "MODELED PASS — ADVISOR REVIEW REQUIRED"
+        }
+      },
+      "error": null
+    },
+    "interest": {
+      "ok": true,
+      "plan": {
+        "strategy": "interest",
+        "program_id": "PSY_BA_2026",
+        "terms": [
+          {
+            "term": 1,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY2502",
+                "title": "Foundations of Cognitive Neuroscience",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.1
+              },
+              {
+                "id": "PSY2501",
+                "title": "Foundations of Behavioral Neuroscience",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.86
+              },
+              {
+                "id": "PSY2104",
+                "title": "Foundations of Sensation and Perception",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.1
+              },
+              {
+                "id": "PSY2201",
+                "title": "Foundations of Psychopathology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0.42
+              },
+              {
+                "id": "GZ_SLOT",
+                "title": "GenEd: Intellectual Heritage II (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GZ"
+              }
+            ]
+          },
+          {
+            "term": 2,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY3096",
+                "title": "Conducting Psychological Research",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "PSY3566",
+                "title": "Neurobiology of Learning and Memory",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.4
+              },
+              {
+                "id": "PSY3100",
+                "title": "Topics: Brain, Behavior and Cognition",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.82
+              },
+              {
+                "id": "PSY3602",
+                "title": "Clinical Neuropsychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.28
+              },
+              {
+                "id": "GA_SLOT",
+                "title": "GenEd: Arts (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GA"
+              }
+            ]
+          },
+          {
+            "term": 3,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "PSY2601",
+                "title": "Foundations of Health Psychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0.28
+              },
+              {
+                "id": "BIOL1001",
+                "title": "Human Biology",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "GQ_SLOT",
+                "title": "GenEd: Quantitative Literacy (provisional slot)",
+                "credits": 4.0,
+                "kind": "gened_slot",
+                "reason": "GQ"
+              },
+              {
+                "id": "GB_SLOT",
+                "title": "GenEd: Human Behavior (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GB"
+              }
+            ]
+          },
+          {
+            "term": 4,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "GD_SLOT",
+                "title": "GenEd: Race & Diversity (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GD"
+              },
+              {
+                "id": "GG_SLOT",
+                "title": "GenEd: World Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GG"
+              },
+              {
+                "id": "GS_1_SLOT",
+                "title": "GenEd: Science & Technology (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GS_1"
+              },
+              {
+                "id": "GS_2_SLOT",
+                "title": "GenEd: Science & Technology (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GS_2"
+              },
+              {
+                "id": "GU_SLOT",
+                "title": "GenEd: U.S. Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GU"
+              }
+            ]
+          },
+          {
+            "term": 5,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "LANG_LEVEL1_SLOT",
+                "title": "Foreign language level 1 (provisional)",
+                "credits": 4.0,
+                "kind": "other_slot",
+                "reason": "LANG_LEVEL1"
+              },
+              {
+                "id": "LANG_LEVEL2_SLOT",
+                "title": "Foreign language level 2 (provisional)",
+                "credits": 4.0,
+                "kind": "other_slot",
+                "reason": "LANG_LEVEL2"
+              },
+              {
+                "id": "CLA_GLOBAL_OPTION_SLOT",
+                "title": "CLA BA additional global studies/language option (provisional)",
+                "credits": 3.0,
+                "kind": "other_slot",
+                "reason": "CLA_GLOBAL_OPTION"
+              },
+              {
+                "id": "FREE_001_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 6,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "PSY4696",
+                "title": "Capstone in Psychology",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "FREE_002_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_003_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_004_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_005_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 7,
+            "credits": 15,
+            "items": [
+              {
+                "id": "FREE_006_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_007_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_008_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_009_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_010_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 8,
+            "credits": 3,
+            "items": [
+              {
+                "id": "FREE_011_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          }
+        ],
+        "completed_credits": 17.0,
+        "projected_total_credits": 123.0,
+        "group_choices": {
+          "INTRO": [
+            [
+              "PSY1001"
+            ]
+          ],
+          "CAREERS": [
+            [
+              "PSY1002"
+            ]
+          ],
+          "STATS": [
+            [
+              "PSY1003"
+            ]
+          ],
+          "THINK": [
+            [
+              "PSY1004"
+            ]
+          ],
+          "SCIENCE": [
+            [
+              "BIOL1001"
+            ]
+          ],
+          "DCS": [
+            [
+              "PSY2201"
+            ],
+            [
+              "PSY2601"
+            ]
+          ],
+          "BCS": [
+            [
+              "PSY2502"
+            ],
+            [
+              "PSY2104"
+            ]
+          ],
+          "METHODS": [
+            [
+              "PSY3096"
+            ]
+          ],
+          "ADVANCED": [
+            [
+              "PSY3566"
+            ],
+            [
+              "PSY3100"
+            ],
+            [
+              "PSY3602"
+            ]
+          ],
+          "PSY_ELECTIVE": [
+            [
+              "PSY2501"
+            ]
+          ],
+          "CAPSTONE": [
+            [
+              "PSY4696"
+            ]
+          ]
+        },
+        "verification": {
+          "modeled_pass": true,
+          "prerequisites_valid": true,
+          "group_results": [
+            {
+              "id": "INTRO",
+              "label": "Introduction to Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CAREERS",
+              "label": "Careers in Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "STATS",
+              "label": "Statistics for Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "THINK",
+              "label": "Critical Thinking in Psychology",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "SCIENCE",
+              "label": "Approved four-credit science option (including lecture+lab bundles)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "DCS",
+              "label": "Developmental / Clinical / Social foundations — choose 2",
+              "passed": true,
+              "course_count": 2,
+              "credits": 6.0
+            },
+            {
+              "id": "BCS",
+              "label": "Brain & Cognitive Sciences foundations — choose 2",
+              "passed": true,
+              "course_count": 2,
+              "credits": 6.0
+            },
+            {
+              "id": "METHODS",
+              "label": "Conducting Psychological Research (WI)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "ADVANCED",
+              "label": "Advanced Psychology — choose 3",
+              "passed": true,
+              "course_count": 3,
+              "credits": 9.0
+            },
+            {
+              "id": "PSY_ELECTIVE",
+              "label": "Additional 2000–3999 Psychology elective",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CAPSTONE",
+              "label": "Psychology senior capstone (WI)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            }
+          ],
+          "checks": [
+            {
+              "id": "college90",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "college_upper45",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "humanities_upper6",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "major_min44",
+              "kind": "major_credits",
+              "status": "passed",
+              "result": 44.0
+            },
+            {
+              "id": "major_wi",
+              "kind": "courses_complete",
+              "status": "passed",
+              "result": true
+            },
+            {
+              "id": "language_level2",
+              "kind": "slot_or_flag",
+              "status": "provisional",
+              "result": true
+            },
+            {
+              "id": "global_option",
+              "kind": "slot_or_flag",
+              "status": "provisional",
+              "result": true
+            },
+            {
+              "id": "cla_major_gpa",
+              "kind": "manual",
+              "status": "manual",
+              "result": "Major and CLA GPA of at least 2.0 cannot be inferred from all synthetic course placeholders."
+            }
+          ],
+          "manual_review": [
+            "college90",
+            "college_upper45",
+            "humanities_upper6",
+            "language_level2",
+            "global_option",
+            "cla_major_gpa"
+          ],
+          "errors": [],
+          "projected_credits": 123.0,
+          "provisional_slots": 23,
+          "campus_offerings_verified": false,
+          "status": "MODELED PASS — ADVISOR REVIEW REQUIRED"
+        }
+      },
+      "error": null
+    }
+  },
+  "notice": "Synthetic/provisional decision-support only; not an official graduation audit."
+}

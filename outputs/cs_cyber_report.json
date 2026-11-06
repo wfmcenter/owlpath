@@ -1,0 +1,1732 @@
+{
+  "program": "Computer Science BS",
+  "program_id": "CS_BS_2026",
+  "student": {
+    "student_id": "SYNTHETIC_CS_CYBER",
+    "program_id": "CS_BS_2026",
+    "catalog_year": "2026-27",
+    "campus_preference": "Tokyo",
+    "completed_courses": [
+      {
+        "course_id": "CIS1001",
+        "grade": "A",
+        "credits": 1,
+        "at_temple": true
+      },
+      {
+        "course_id": "CIS1051",
+        "grade": "B+",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "CIS1068",
+        "grade": "A-",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "CIS1166",
+        "grade": "B",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "MATH1041",
+        "grade": "B",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "MATH1042",
+        "grade": "B-",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "SCTC1001",
+        "grade": "A",
+        "credits": 1,
+        "at_temple": true
+      },
+      {
+        "course_id": "GW_SLOT",
+        "grade": "B+",
+        "credits": 4,
+        "at_temple": true
+      },
+      {
+        "course_id": "GY_SLOT",
+        "grade": "A-",
+        "credits": 3,
+        "at_temple": true
+      }
+    ],
+    "other_completed_credits": 0,
+    "preferences": {
+      "target_credits_per_term": 15,
+      "career_tags": [
+        "cybersecurity",
+        "forensics",
+        "networks"
+      ],
+      "interest_tags": [
+        "artificial_intelligence",
+        "data_science"
+      ],
+      "priority": "balanced",
+      "interest_weights": {
+        "cybersecurity": 5,
+        "forensics": 5,
+        "networks": 4
+      }
+    },
+    "prototype_flags": {
+      "math_ready": true,
+      "foreign_language_level_2": false,
+      "calculus_ready": true,
+      "calculus_ii_or_higher": true
+    }
+  },
+  "plans": {
+    "fastest": {
+      "ok": true,
+      "plan": {
+        "strategy": "fastest",
+        "program_id": "CS_BS_2026",
+        "terms": [
+          {
+            "term": 1,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS2168",
+                "title": "Data Structures",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2107",
+                "title": "Computer Systems and Low-Level Programming",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2033",
+                "title": "Computational Probability and Statistics",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2166",
+                "title": "Mathematical Concepts in Computing II",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              }
+            ]
+          },
+          {
+            "term": 2,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS3207",
+                "title": "Introduction to Systems Programming and Operating Systems",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3223",
+                "title": "Data Structures and Algorithms",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "BIOL1011",
+                "title": "General Biology I",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3319",
+                "title": "Wireless Networks and Security",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.72
+              }
+            ]
+          },
+          {
+            "term": 3,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "CIS3296",
+                "title": "Software Design (WI)",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "BIOL1012",
+                "title": "General Biology II",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3441",
+                "title": "Software Security",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "CIS3605",
+                "title": "Introduction to Digital Forensics",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.0
+              }
+            ]
+          },
+          {
+            "term": 4,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS4398",
+                "title": "Projects in Computer Science (WI)",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS4419",
+                "title": "Securing the Internet of Things",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "CIS4429",
+                "title": "Security in Mobile and Embedded Systems",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "GZ_SLOT",
+                "title": "GenEd: Intellectual Heritage II (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GZ"
+              },
+              {
+                "id": "GA_SLOT",
+                "title": "GenEd: Arts (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GA"
+              }
+            ]
+          },
+          {
+            "term": 5,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "GB_SLOT",
+                "title": "GenEd: Human Behavior (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GB"
+              },
+              {
+                "id": "GD_SLOT",
+                "title": "GenEd: Race & Diversity (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GD"
+              },
+              {
+                "id": "GG_SLOT",
+                "title": "GenEd: World Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GG"
+              },
+              {
+                "id": "GU_SLOT",
+                "title": "GenEd: U.S. Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GU"
+              },
+              {
+                "id": "FREE_001_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 6,
+            "credits": 15,
+            "items": [
+              {
+                "id": "FREE_002_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_003_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_004_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_005_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_006_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 7,
+            "credits": 5,
+            "items": [
+              {
+                "id": "FREE_007_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_008_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 2,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          }
+        ],
+        "completed_credits": 29.0,
+        "projected_total_credits": 123.0,
+        "group_choices": {
+          "SEMINAR": [
+            [
+              "SCTC1001"
+            ]
+          ],
+          "CIS1001": [
+            [
+              "CIS1001"
+            ]
+          ],
+          "INTRO": [
+            [
+              "CIS1051"
+            ]
+          ],
+          "DESIGN": [
+            [
+              "CIS1068"
+            ]
+          ],
+          "MATHCOMP1": [
+            [
+              "CIS1166"
+            ]
+          ],
+          "CIS2107": [
+            [
+              "CIS2107"
+            ]
+          ],
+          "CIS2166": [
+            [
+              "CIS2166"
+            ]
+          ],
+          "CIS2168": [
+            [
+              "CIS2168"
+            ]
+          ],
+          "CIS3207": [
+            [
+              "CIS3207"
+            ]
+          ],
+          "CIS3223": [
+            [
+              "CIS3223"
+            ]
+          ],
+          "CIS3296": [
+            [
+              "CIS3296"
+            ]
+          ],
+          "CAPSTONE": [
+            [
+              "CIS4398"
+            ]
+          ],
+          "CALC1": [
+            [
+              "MATH1041"
+            ]
+          ],
+          "CALC2": [
+            [
+              "MATH1042"
+            ]
+          ],
+          "CIS2033": [
+            [
+              "CIS2033"
+            ]
+          ],
+          "LABSEQ": [
+            [
+              "BIOL1011",
+              "BIOL1012"
+            ]
+          ],
+          "CS_ELECTIVES": [
+            [
+              "CIS3605"
+            ],
+            [
+              "CIS3319"
+            ],
+            [
+              "CIS3441"
+            ],
+            [
+              "CIS4429"
+            ],
+            [
+              "CIS4419"
+            ]
+          ]
+        },
+        "verification": {
+          "modeled_pass": true,
+          "prerequisites_valid": true,
+          "group_results": [
+            {
+              "id": "SEMINAR",
+              "label": "Complete first-year or transfer CST seminar",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "CIS1001",
+              "label": "CIS 1001",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "INTRO",
+              "label": "Choose one introductory programming option",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "DESIGN",
+              "label": "Choose Program Design and Abstraction or honors equivalent",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "MATHCOMP1",
+              "label": "Choose Mathematical Concepts in Computing I or honors equivalent",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2107",
+              "label": "CIS2107",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2166",
+              "label": "CIS2166",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2168",
+              "label": "CIS2168",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS3207",
+              "label": "CIS3207",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS3223",
+              "label": "CIS3223",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CIS3296",
+              "label": "CIS3296",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CAPSTONE",
+              "label": "Choose CIS 4397 or CIS 4398 for second WI/capstone",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CALC1",
+              "label": "Choose Calculus I or Honors Calculus I",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CALC2",
+              "label": "Choose Calculus II or Honors Calculus II",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2033",
+              "label": "CIS 2033 Computational Probability and Statistics",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "LABSEQ",
+              "label": "Same-department laboratory science sequence (A then B)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 8.0
+            },
+            {
+              "id": "CS_ELECTIVES",
+              "label": "Approved Computer Science electives",
+              "passed": true,
+              "course_count": 5,
+              "credits": 16.0
+            }
+          ],
+          "checks": [
+            {
+              "id": "college90",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "college_upper45",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "major_credit_min",
+              "kind": "major_credits",
+              "status": "passed",
+              "result": 74.0
+            },
+            {
+              "id": "residency_major",
+              "kind": "residency",
+              "status": "manual",
+              "result": "Requires eventual confirmation of course location and student record."
+            },
+            {
+              "id": "residency_subject",
+              "kind": "residency",
+              "status": "manual",
+              "result": "Requires eventual confirmation of course location and student record."
+            },
+            {
+              "id": "writing_intensive",
+              "kind": "courses_complete",
+              "status": "passed",
+              "result": true
+            }
+          ],
+          "manual_review": [
+            "college90",
+            "college_upper45",
+            "residency_major",
+            "residency_subject"
+          ],
+          "errors": [],
+          "projected_credits": 123.0,
+          "provisional_slots": 14,
+          "campus_offerings_verified": false,
+          "status": "MODELED PASS — ADVISOR REVIEW REQUIRED"
+        }
+      },
+      "error": null
+    },
+    "balanced": {
+      "ok": true,
+      "plan": {
+        "strategy": "balanced",
+        "program_id": "CS_BS_2026",
+        "terms": [
+          {
+            "term": 1,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "CIS2168",
+                "title": "Data Structures",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2107",
+                "title": "Computer Systems and Low-Level Programming",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2033",
+                "title": "Computational Probability and Statistics",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "GZ_SLOT",
+                "title": "GenEd: Intellectual Heritage II (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GZ"
+              }
+            ]
+          },
+          {
+            "term": 2,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS2166",
+                "title": "Mathematical Concepts in Computing II",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3207",
+                "title": "Introduction to Systems Programming and Operating Systems",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "BIOL1011",
+                "title": "General Biology I",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "GA_SLOT",
+                "title": "GenEd: Arts (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GA"
+              }
+            ]
+          },
+          {
+            "term": 3,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "CIS3223",
+                "title": "Data Structures and Algorithms",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3296",
+                "title": "Software Design (WI)",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "BIOL1012",
+                "title": "General Biology II",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "GB_SLOT",
+                "title": "GenEd: Human Behavior (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GB"
+              }
+            ]
+          },
+          {
+            "term": 4,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS3319",
+                "title": "Wireless Networks and Security",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.72
+              },
+              {
+                "id": "CIS3441",
+                "title": "Software Security",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "CIS3605",
+                "title": "Introduction to Digital Forensics",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.0
+              },
+              {
+                "id": "GD_SLOT",
+                "title": "GenEd: Race & Diversity (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GD"
+              },
+              {
+                "id": "FREE_008_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 2,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 5,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS4398",
+                "title": "Projects in Computer Science (WI)",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS4419",
+                "title": "Securing the Internet of Things",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "CIS4429",
+                "title": "Security in Mobile and Embedded Systems",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "GG_SLOT",
+                "title": "GenEd: World Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GG"
+              },
+              {
+                "id": "GU_SLOT",
+                "title": "GenEd: U.S. Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GU"
+              }
+            ]
+          },
+          {
+            "term": 6,
+            "credits": 15,
+            "items": [
+              {
+                "id": "FREE_001_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_002_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_003_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_004_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_005_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 7,
+            "credits": 6,
+            "items": [
+              {
+                "id": "FREE_006_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_007_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          }
+        ],
+        "completed_credits": 29.0,
+        "projected_total_credits": 123.0,
+        "group_choices": {
+          "SEMINAR": [
+            [
+              "SCTC1001"
+            ]
+          ],
+          "CIS1001": [
+            [
+              "CIS1001"
+            ]
+          ],
+          "INTRO": [
+            [
+              "CIS1051"
+            ]
+          ],
+          "DESIGN": [
+            [
+              "CIS1068"
+            ]
+          ],
+          "MATHCOMP1": [
+            [
+              "CIS1166"
+            ]
+          ],
+          "CIS2107": [
+            [
+              "CIS2107"
+            ]
+          ],
+          "CIS2166": [
+            [
+              "CIS2166"
+            ]
+          ],
+          "CIS2168": [
+            [
+              "CIS2168"
+            ]
+          ],
+          "CIS3207": [
+            [
+              "CIS3207"
+            ]
+          ],
+          "CIS3223": [
+            [
+              "CIS3223"
+            ]
+          ],
+          "CIS3296": [
+            [
+              "CIS3296"
+            ]
+          ],
+          "CAPSTONE": [
+            [
+              "CIS4398"
+            ]
+          ],
+          "CALC1": [
+            [
+              "MATH1041"
+            ]
+          ],
+          "CALC2": [
+            [
+              "MATH1042"
+            ]
+          ],
+          "CIS2033": [
+            [
+              "CIS2033"
+            ]
+          ],
+          "LABSEQ": [
+            [
+              "BIOL1011",
+              "BIOL1012"
+            ]
+          ],
+          "CS_ELECTIVES": [
+            [
+              "CIS3605"
+            ],
+            [
+              "CIS3441"
+            ],
+            [
+              "CIS4429"
+            ],
+            [
+              "CIS4419"
+            ],
+            [
+              "CIS3319"
+            ]
+          ]
+        },
+        "verification": {
+          "modeled_pass": true,
+          "prerequisites_valid": true,
+          "group_results": [
+            {
+              "id": "SEMINAR",
+              "label": "Complete first-year or transfer CST seminar",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "CIS1001",
+              "label": "CIS 1001",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "INTRO",
+              "label": "Choose one introductory programming option",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "DESIGN",
+              "label": "Choose Program Design and Abstraction or honors equivalent",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "MATHCOMP1",
+              "label": "Choose Mathematical Concepts in Computing I or honors equivalent",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2107",
+              "label": "CIS2107",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2166",
+              "label": "CIS2166",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2168",
+              "label": "CIS2168",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS3207",
+              "label": "CIS3207",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS3223",
+              "label": "CIS3223",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CIS3296",
+              "label": "CIS3296",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CAPSTONE",
+              "label": "Choose CIS 4397 or CIS 4398 for second WI/capstone",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CALC1",
+              "label": "Choose Calculus I or Honors Calculus I",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CALC2",
+              "label": "Choose Calculus II or Honors Calculus II",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2033",
+              "label": "CIS 2033 Computational Probability and Statistics",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "LABSEQ",
+              "label": "Same-department laboratory science sequence (A then B)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 8.0
+            },
+            {
+              "id": "CS_ELECTIVES",
+              "label": "Approved Computer Science electives",
+              "passed": true,
+              "course_count": 5,
+              "credits": 16.0
+            }
+          ],
+          "checks": [
+            {
+              "id": "college90",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "college_upper45",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "major_credit_min",
+              "kind": "major_credits",
+              "status": "passed",
+              "result": 74.0
+            },
+            {
+              "id": "residency_major",
+              "kind": "residency",
+              "status": "manual",
+              "result": "Requires eventual confirmation of course location and student record."
+            },
+            {
+              "id": "residency_subject",
+              "kind": "residency",
+              "status": "manual",
+              "result": "Requires eventual confirmation of course location and student record."
+            },
+            {
+              "id": "writing_intensive",
+              "kind": "courses_complete",
+              "status": "passed",
+              "result": true
+            }
+          ],
+          "manual_review": [
+            "college90",
+            "college_upper45",
+            "residency_major",
+            "residency_subject"
+          ],
+          "errors": [],
+          "projected_credits": 123.0,
+          "provisional_slots": 14,
+          "campus_offerings_verified": false,
+          "status": "MODELED PASS — ADVISOR REVIEW REQUIRED"
+        }
+      },
+      "error": null
+    },
+    "interest": {
+      "ok": true,
+      "plan": {
+        "strategy": "interest",
+        "program_id": "CS_BS_2026",
+        "terms": [
+          {
+            "term": 1,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS2168",
+                "title": "Data Structures",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2107",
+                "title": "Computer Systems and Low-Level Programming",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2033",
+                "title": "Computational Probability and Statistics",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS2166",
+                "title": "Mathematical Concepts in Computing II",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              }
+            ]
+          },
+          {
+            "term": 2,
+            "credits": 14.0,
+            "items": [
+              {
+                "id": "CIS3319",
+                "title": "Wireless Networks and Security",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 4.72
+              },
+              {
+                "id": "CIS3207",
+                "title": "Introduction to Systems Programming and Operating Systems",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3223",
+                "title": "Data Structures and Algorithms",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS3605",
+                "title": "Introduction to Digital Forensics",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.0
+              }
+            ]
+          },
+          {
+            "term": 3,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "CIS3296",
+                "title": "Software Design (WI)",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS4696",
+                "title": "Ethical Hacking and Intrusion Forensics (WI)",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 5.0
+              },
+              {
+                "id": "CIS3441",
+                "title": "Software Security",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "CIS4429",
+                "title": "Security in Mobile and Embedded Systems",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 3.0
+              },
+              {
+                "id": "FREE_008_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 2,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 4,
+            "credits": 13.0,
+            "items": [
+              {
+                "id": "BIOL1011",
+                "title": "General Biology I",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "CIS4398",
+                "title": "Projects in Computer Science (WI)",
+                "credits": 3.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "GZ_SLOT",
+                "title": "GenEd: Intellectual Heritage II (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GZ"
+              },
+              {
+                "id": "GA_SLOT",
+                "title": "GenEd: Arts (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GA"
+              }
+            ]
+          },
+          {
+            "term": 5,
+            "credits": 13.0,
+            "items": [
+              {
+                "id": "BIOL1012",
+                "title": "General Biology II",
+                "credits": 4.0,
+                "kind": "course",
+                "reason": "Academic requirement / prerequisite / chosen elective",
+                "interest_points": 0
+              },
+              {
+                "id": "GB_SLOT",
+                "title": "GenEd: Human Behavior (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GB"
+              },
+              {
+                "id": "GD_SLOT",
+                "title": "GenEd: Race & Diversity (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GD"
+              },
+              {
+                "id": "GG_SLOT",
+                "title": "GenEd: World Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GG"
+              }
+            ]
+          },
+          {
+            "term": 6,
+            "credits": 15.0,
+            "items": [
+              {
+                "id": "GU_SLOT",
+                "title": "GenEd: U.S. Society (provisional slot)",
+                "credits": 3.0,
+                "kind": "gened_slot",
+                "reason": "GU"
+              },
+              {
+                "id": "FREE_001_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_002_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_003_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_004_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          },
+          {
+            "term": 7,
+            "credits": 9,
+            "items": [
+              {
+                "id": "FREE_005_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_006_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              },
+              {
+                "id": "FREE_007_SLOT",
+                "title": "Free elective credit placeholder (course TBD)",
+                "credits": 3,
+                "kind": "free_slot",
+                "reason": "Credits only; not a course"
+              }
+            ]
+          }
+        ],
+        "completed_credits": 29.0,
+        "projected_total_credits": 123.0,
+        "group_choices": {
+          "SEMINAR": [
+            [
+              "SCTC1001"
+            ]
+          ],
+          "CIS1001": [
+            [
+              "CIS1001"
+            ]
+          ],
+          "INTRO": [
+            [
+              "CIS1051"
+            ]
+          ],
+          "DESIGN": [
+            [
+              "CIS1068"
+            ]
+          ],
+          "MATHCOMP1": [
+            [
+              "CIS1166"
+            ]
+          ],
+          "CIS2107": [
+            [
+              "CIS2107"
+            ]
+          ],
+          "CIS2166": [
+            [
+              "CIS2166"
+            ]
+          ],
+          "CIS2168": [
+            [
+              "CIS2168"
+            ]
+          ],
+          "CIS3207": [
+            [
+              "CIS3207"
+            ]
+          ],
+          "CIS3223": [
+            [
+              "CIS3223"
+            ]
+          ],
+          "CIS3296": [
+            [
+              "CIS3296"
+            ]
+          ],
+          "CAPSTONE": [
+            [
+              "CIS4398"
+            ]
+          ],
+          "CALC1": [
+            [
+              "MATH1041"
+            ]
+          ],
+          "CALC2": [
+            [
+              "MATH1042"
+            ]
+          ],
+          "CIS2033": [
+            [
+              "CIS2033"
+            ]
+          ],
+          "LABSEQ": [
+            [
+              "BIOL1011",
+              "BIOL1012"
+            ]
+          ],
+          "CS_ELECTIVES": [
+            [
+              "CIS3605"
+            ],
+            [
+              "CIS4696"
+            ],
+            [
+              "CIS3319"
+            ],
+            [
+              "CIS3441"
+            ],
+            [
+              "CIS4429"
+            ]
+          ]
+        },
+        "verification": {
+          "modeled_pass": true,
+          "prerequisites_valid": true,
+          "group_results": [
+            {
+              "id": "SEMINAR",
+              "label": "Complete first-year or transfer CST seminar",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "CIS1001",
+              "label": "CIS 1001",
+              "passed": true,
+              "course_count": 1,
+              "credits": 1.0
+            },
+            {
+              "id": "INTRO",
+              "label": "Choose one introductory programming option",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "DESIGN",
+              "label": "Choose Program Design and Abstraction or honors equivalent",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "MATHCOMP1",
+              "label": "Choose Mathematical Concepts in Computing I or honors equivalent",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2107",
+              "label": "CIS2107",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2166",
+              "label": "CIS2166",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2168",
+              "label": "CIS2168",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS3207",
+              "label": "CIS3207",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS3223",
+              "label": "CIS3223",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CIS3296",
+              "label": "CIS3296",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CAPSTONE",
+              "label": "Choose CIS 4397 or CIS 4398 for second WI/capstone",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "CALC1",
+              "label": "Choose Calculus I or Honors Calculus I",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CALC2",
+              "label": "Choose Calculus II or Honors Calculus II",
+              "passed": true,
+              "course_count": 1,
+              "credits": 4.0
+            },
+            {
+              "id": "CIS2033",
+              "label": "CIS 2033 Computational Probability and Statistics",
+              "passed": true,
+              "course_count": 1,
+              "credits": 3.0
+            },
+            {
+              "id": "LABSEQ",
+              "label": "Same-department laboratory science sequence (A then B)",
+              "passed": true,
+              "course_count": 1,
+              "credits": 8.0
+            },
+            {
+              "id": "CS_ELECTIVES",
+              "label": "Approved Computer Science electives",
+              "passed": true,
+              "course_count": 5,
+              "credits": 16.0
+            }
+          ],
+          "checks": [
+            {
+              "id": "college90",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "college_upper45",
+              "kind": "credits_scope",
+              "status": "manual",
+              "result": "Insufficient verified subject/school metadata for all academic credits."
+            },
+            {
+              "id": "major_credit_min",
+              "kind": "major_credits",
+              "status": "passed",
+              "result": 74.0
+            },
+            {
+              "id": "residency_major",
+              "kind": "residency",
+              "status": "manual",
+              "result": "Requires eventual confirmation of course location and student record."
+            },
+            {
+              "id": "residency_subject",
+              "kind": "residency",
+              "status": "manual",
+              "result": "Requires eventual confirmation of course location and student record."
+            },
+            {
+              "id": "writing_intensive",
+              "kind": "courses_complete",
+              "status": "passed",
+              "result": true
+            }
+          ],
+          "manual_review": [
+            "college90",
+            "college_upper45",
+            "residency_major",
+            "residency_subject"
+          ],
+          "errors": [],
+          "projected_credits": 123.0,
+          "provisional_slots": 14,
+          "campus_offerings_verified": false,
+          "status": "MODELED PASS — ADVISOR REVIEW REQUIRED"
+        }
+      },
+      "error": null
+    }
+  },
+  "notice": "Synthetic/provisional decision-support only; not an official graduation audit."
+}

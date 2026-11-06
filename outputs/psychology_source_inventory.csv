@@ -1,0 +1,65 @@
+﻿course_id,title,credits,metadata_verified,automatic_choice_eligible,prerequisite_data_source,course_source,TUJ_future_offering_verified
+BIOL1001,Human Biology,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+BIOL1011,General Biology I,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+BIOL1012,General Biology II,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+BIOL1111,Introduction to Organismal Biology,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+BIOL1112,"Introduction to Biomolecules, Cells and Genomes",4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+BOT1111,General Botany,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1021,Introduction to Chemistry I,3,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1022,Introduction to Chemistry II,3,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1023,Introduction to Chemistry Laboratory I,1,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1024,Introduction to Chemistry Laboratory II,1,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1027,Applications of Chemistry,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1031,General Chemistry I,3,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1032,General Chemistry II,3,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1033,General Chemistry Laboratory I,1,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CHEM1034,General Chemistry Laboratory II,1,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+CJ3408,Forensic Psychology,,False,False,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+EES2001,Physical Geology,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+ENST2002,Physical Geography,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+KINS1223,Human Anatomy and Physiology I,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+KINS1224,Human Anatomy and Physiology II,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+PHYS1021,Introduction to General Physics I,4,True,True,not specified,https://bulletin.temple.edu/undergraduate/liberal-arts/psychology-ba/,False
+PSY1001,Introduction to Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY1002,Careers in Psychology,1,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY1003,Statistics for Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY1004,Critical Thinking in Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY1901,Honors: Introduction to Psychology,3,True,False,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2101,Foundations of Cognitive Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2103,Foundations of Learning and Behavior Analysis,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2104,Foundations of Sensation and Perception,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2201,Foundations of Psychopathology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2301,Foundations of Developmental Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2401,Foundations of Social Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2402,Foundations of Industrial and Organizational Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2501,Foundations of Behavioral Neuroscience,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2502,Foundations of Cognitive Neuroscience,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY2601,Foundations of Health Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3002,Evolutionary and Comparative Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3003,Advanced Undergraduate Statistics,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3005,Affective Neuroscience,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3096,Conducting Psychological Research,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3100,"Topics: Brain, Behavior and Cognition",3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3151,Direct Applications of Behavioral Principles,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3172,The Science of Sleep,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3200,Topics: Clinical,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3221,Clinical Psychology: Research and Practice,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3223,Child Psychopathology and Treatment,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3301,Phases of Development: Infancy,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3303,"Psychological Testing: Measuring IQ, Thoughts, Feelings, and Attitudes",3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3304,"Personality, Social and Emotional Development",3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3305,Cognitive and Language Development,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3306,Neuroscience of Development and Aging,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3411,Social Cognition,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3413,"Psychology of Power, Oppression, and Privilege",3,True,False,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3418,Human Performance Improvement,3,True,False,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3561,Psychopharmacology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3566,Neurobiology of Learning and Memory,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3600,Advanced Topics in Health Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3601,Social Health Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3602,Clinical Neuropsychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3603,Clinical Applications of Health Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3615,History and Systems of Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY3620,Topics in Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY4696,Capstone in Psychology,3,True,True,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False
+PSY4996,Honors Capstone,4,True,False,https://bulletin.temple.edu/courses/psy/,https://bulletin.temple.edu/courses/psy/,False

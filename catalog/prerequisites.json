@@ -1,0 +1,2559 @@
+{
+  "CIS1051": {
+    "all": [
+      {
+        "any": [
+          {
+            "flag": "math_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS1057": {
+    "all": [
+      {
+        "any": [
+          {
+            "flag": "math_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS1068": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS1051"
+          },
+          {
+            "course": "CIS1057"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "flag": "math_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS1166": {
+    "all": [
+      {
+        "any": [
+          {
+            "flag": "math_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS2033": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1073"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1166"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "flag": "calculus_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS2107": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1073"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1166"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS2166": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "MATH1041"
+          },
+          {
+            "course": "MATH1941"
+          },
+          {
+            "course": "MATH1042"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1968"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1166"
+          },
+          {
+            "course": "CIS1966"
+          },
+          {
+            "course": "MATH2111"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS2168": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1968"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1166"
+          },
+          {
+            "course": "CIS1966"
+          },
+          {
+            "course": "MATH2111"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "flag": "math_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3207": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS1166"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3223": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2033"
+          },
+          {
+            "course": "MATH3031"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "flag": "calculus_ii_or_higher"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3296": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS3203"
+          },
+          {
+            "course": "CIS3207"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4398": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3238"
+          },
+          {
+            "course": "CIS3287"
+          },
+          {
+            "course": "CIS3296"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS3223"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4397": {
+    "all": [
+      {
+        "any": [
+          {
+            "flag": "honors_research_approved"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3100": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3203": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2033"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3211": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3217": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3308": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3319": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          },
+          {
+            "course": "CIS2229"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3374": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3441": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3515": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3523": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          },
+          {
+            "course": "CIS2229"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3603": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3605": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          },
+          {
+            "course": "CIS2229"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3655": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3715": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          },
+          {
+            "course": "MATH2101"
+          },
+          {
+            "course": "MATH2103"
+          },
+          {
+            "course": "ENGR2011"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1051"
+          },
+          {
+            "course": "CIS1057"
+          },
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1968"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS3755": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4203": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3203"
+          },
+          {
+            "course": "CIS4526"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4307": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS3207"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS3223"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4319": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3207"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4324": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4429": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4331": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4345": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3207"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4350": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4360": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4419": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2107"
+          },
+          {
+            "course": "CIS3329"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4515": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3515"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4517": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS2168"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          },
+          {
+            "course": "MATH2101"
+          },
+          {
+            "course": "MATH2103"
+          },
+          {
+            "course": "ENGR2011"
+          },
+          {
+            "course": "MATH3045"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4523": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "MATH2043"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          },
+          {
+            "course": "MATH2101"
+          },
+          {
+            "course": "ENGR2011"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2033"
+          },
+          {
+            "course": "MATH3031"
+          },
+          {
+            "course": "ECE3522"
+          },
+          {
+            "course": "STAT2103"
+          },
+          {
+            "course": "BIOL3312"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1051"
+          },
+          {
+            "course": "CIS1057"
+          },
+          {
+            "course": "CIS1068"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4524": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "MATH2043"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          },
+          {
+            "course": "MATH2101"
+          },
+          {
+            "course": "ENGR2011"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2033"
+          },
+          {
+            "course": "MATH3031"
+          },
+          {
+            "course": "ECE3522"
+          },
+          {
+            "course": "STAT2103"
+          },
+          {
+            "course": "BIOL3312"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1051"
+          },
+          {
+            "course": "CIS1951"
+          },
+          {
+            "course": "CIS1057"
+          },
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1968"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4526": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "MATH1042"
+          },
+          {
+            "course": "MATH1942"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2166"
+          },
+          {
+            "course": "MATH2101"
+          },
+          {
+            "course": "MATH2045"
+          },
+          {
+            "course": "ENGR2011"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS2033"
+          },
+          {
+            "course": "MATH3031"
+          },
+          {
+            "course": "ECE3522"
+          },
+          {
+            "course": "STAT2103"
+          },
+          {
+            "course": "BIOL3312"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "CIS1051"
+          },
+          {
+            "course": "CIS1057"
+          },
+          {
+            "course": "CIS1068"
+          },
+          {
+            "course": "CIS1951"
+          },
+          {
+            "course": "CIS1968"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4626": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3715"
+          },
+          {
+            "course": "CIS4526"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "CIS4696": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "CIS3319"
+          },
+          {
+            "course": "CIS4378"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/cis/"
+  },
+  "PSY1003": {
+    "all": [
+      {
+        "any": [
+          {
+            "flag": "math_ready"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY1004": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2101": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2103": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2104": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2201": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2301": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2401": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2402": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2501": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2502": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY2601": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3002": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3003": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3303": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3602": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3615": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3620": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3200": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3096": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY1001"
+          },
+          {
+            "course": "PSY1901"
+          },
+          {
+            "course": "PSY1061"
+          },
+          {
+            "course": "PSY1071"
+          },
+          {
+            "course": "PSY1996"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "subject_level": {
+              "subject": "PSY",
+              "min_level": 2000,
+              "max_level": 2999
+            }
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3005": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2501"
+          },
+          {
+            "course": "PSY2502"
+          },
+          {
+            "course": "NSCI2001"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3100": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2101"
+          },
+          {
+            "course": "PSY2103"
+          },
+          {
+            "course": "PSY2104"
+          },
+          {
+            "course": "PSY2501"
+          },
+          {
+            "course": "PSY2502"
+          },
+          {
+            "course": "PSY2901"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3151": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3172": {
+    "all": [
+      {
+        "any": [
+          {
+            "all": [
+              {
+                "course": "PSY1003"
+              },
+              {
+                "course": "PSY2101"
+              }
+            ]
+          },
+          {
+            "course": "PSY2501"
+          },
+          {
+            "course": "PSY2502"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3221": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2201"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3223": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2201"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3301": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2301"
+          },
+          {
+            "course": "PSY2931"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3304": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2301"
+          },
+          {
+            "course": "PSY2931"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3305": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2101"
+          },
+          {
+            "course": "PSY2301"
+          },
+          {
+            "course": "PSY2901"
+          },
+          {
+            "course": "PSY2931"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3306": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2501"
+          },
+          {
+            "course": "PSY2502"
+          },
+          {
+            "course": "NSCI2001"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3411": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2401"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3413": {
+    "all": [
+      {
+        "flag": "source_prerequisite_verification"
+      }
+    ],
+    "verified": false,
+    "source": "https://bulletin.temple.edu/courses/psy/"
+  },
+  "PSY3418": {
+    "all": [
+      {
+        "flag": "source_prerequisite_verification"
+      }
+    ],
+    "verified": false,
+    "source": "https://bulletin.temple.edu/courses/psy/"
+  },
+  "PSY3561": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2501"
+          },
+          {
+            "course": "PSY2502"
+          },
+          {
+            "course": "NSCI2122"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3566": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2501"
+          },
+          {
+            "course": "PSY2502"
+          },
+          {
+            "course": "NSCI2001"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3600": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2601"
+          },
+          {
+            "course": "HRPR2103"
+          },
+          {
+            "course": "SBS2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3601": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2601"
+          },
+          {
+            "course": "HRPR2103"
+          },
+          {
+            "course": "SBS2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY3603": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY2201"
+          },
+          {
+            "course": "PSY2601"
+          },
+          {
+            "course": "HRPR2103"
+          },
+          {
+            "course": "SBS2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1003"
+          },
+          {
+            "course": "PSY2168"
+          },
+          {
+            "course": "STAT2102"
+          },
+          {
+            "course": "STAT2103"
+          }
+        ]
+      },
+      {
+        "any": [
+          {
+            "course": "PSY1004"
+          },
+          {
+            "course": "PSY1167"
+          },
+          {
+            "course": "SOC1167"
+          },
+          {
+            "course": "MATH1013"
+          },
+          {
+            "course": "STAT2101"
+          }
+        ]
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY4696": {
+    "all": [
+      {
+        "any": [
+          {
+            "course": "PSY3096"
+          },
+          {
+            "course": "PSY2196"
+          }
+        ]
+      },
+      {
+        "min_prior_credits": 90
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY4996": {
+    "all": [
+      {
+        "flag": "psy_honors_capstone_approved"
+      },
+      {
+        "any": [
+          {
+            "course": "PSY3096"
+          }
+        ]
+      },
+      {
+        "min_prior_credits": 90
+      }
+    ],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY1001": {
+    "all": [],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY1901": {
+    "all": [],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  },
+  "PSY1002": {
+    "all": [],
+    "source": "https://bulletin.temple.edu/courses/psy/",
+    "verified": true
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "CST_2026",
+  "name": "CST GenEd 2026-27",
+  "slots": [
+    {
+      "id": "GW",
+      "label": "Analytical Reading & Writing",
+      "credits": 4,
+      "attribute": "GW"
+    },
+    {
+      "id": "GY",
+      "label": "Intellectual Heritage I",
+      "credits": 3,
+      "attribute": "GY"
+    },
+    {
+      "id": "GZ",
+      "label": "Intellectual Heritage II",
+      "credits": 3,
+      "attribute": "GZ"
+    },
+    {
+      "id": "GA",
+      "label": "Arts",
+      "credits": 3,
+      "attribute": "GA"
+    },
+    {
+      "id": "GB",
+      "label": "Human Behavior",
+      "credits": 3,
+      "attribute": "GB"
+    },
+    {
+      "id": "GD",
+      "label": "Race & Diversity",
+      "credits": 3,
+      "attribute": "GD"
+    },
+    {
+      "id": "GG",
+      "label": "World Society",
+      "credits": 3,
+      "attribute": "GG"
+    },
+    {
+      "id": "GU",
+      "label": "U.S. Society",
+      "credits": 3,
+      "attribute": "GU"
+    }
+  ],
+  "source": "https://www.tuj.ac.jp/ug/academics/academic-requirements/gened-requirements"
+}

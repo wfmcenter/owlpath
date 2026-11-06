@@ -1,0 +1,79 @@
+{
+  "student_id": "DEMO_CS_BS_001",
+  "program_id": "CS_BS_2026",
+  "catalog_year": "2026-27",
+  "campus_preference": "Tokyo",
+  "completed_courses": [
+    {
+      "course_id": "CIS1001",
+      "grade": "A",
+      "credits": 1,
+      "at_temple": true
+    },
+    {
+      "course_id": "CIS1051",
+      "grade": "B+",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "CIS1068",
+      "grade": "A-",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "CIS1166",
+      "grade": "B",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "MATH1041",
+      "grade": "B",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "MATH1042",
+      "grade": "B-",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "SCTC1001",
+      "grade": "A",
+      "credits": 1,
+      "at_temple": true
+    },
+    {
+      "course_id": "GW_SLOT",
+      "grade": "B+",
+      "credits": 4,
+      "at_temple": true
+    },
+    {
+      "course_id": "GY_SLOT",
+      "grade": "A-",
+      "credits": 3,
+      "at_temple": true
+    }
+  ],
+  "other_completed_credits": 0,
+  "preferences": {
+    "target_credits_per_term": 15,
+    "career_tags": [
+      "artificial_intelligence",
+      "software"
+    ],
+    "interest_tags": [
+      "artificial_intelligence",
+      "data_science"
+    ],
+    "priority": "balanced"
+  },
+  "prototype_flags": {
+    "math_ready": true,
+    "foreign_language_level_2": false
+  }
+}
